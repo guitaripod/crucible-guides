@@ -1,0 +1,24 @@
+slug = "dragon-ball-z"
+title = "Dragon Ball Z"
+titles = ["Dragon Ball Z", "ドラゴンボールZ"]
+episodes = 291
+
+[ids]
+tvdb = 81472
+imdb = "tt0121220"
+anidb = 1530
+mal = 813
+
+[wiki]
+series = ["DBZ", "Dragon Ball Z"]
+dump = "dragonball"
+name = "Dragon Ball Wiki"
+url = "https://dragonball.fandom.com/"
+licence = "CC BY-SA"
+licence_url = "https://www.fandom.com/licensing"
+template = "EpisodeInfobox"
+series_field = "Series"
+number_field = "Number"
+title_field = "Name"
+aired_field = "Airdate"
+chapter_field = "Manga"

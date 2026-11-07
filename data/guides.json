@@ -1,0 +1,4756 @@
+{
+  "format": 1,
+  "generated": "2026-11-07",
+  "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/); each show lists its sources",
+  "shows": [
+    {
+      "slug": "dragon-ball",
+      "title": "Dragon Ball",
+      "titles": [
+        "Dragon Ball",
+        "ドラゴンボール"
+      ],
+      "ids": {
+        "tvdb": 76666,
+        "imdb": "tt0088509",
+        "anidb": 231,
+        "mal": 223
+      },
+      "episodes": [
+        {
+          "n": 1,
+          "aired": "1986-02-26",
+          "title": "The Secret of the Dragon Balls",
+          "kind": "canon"
+        },
+        {
+          "n": 2,
+          "aired": "1986-03-05",
+          "title": "The Emperor's Quest",
+          "kind": "canon"
+        },
+        {
+          "n": 3,
+          "aired": "1986-03-12",
+          "title": "The Nimbus Cloud of Roshi",
+          "kind": "canon"
+        },
+        {
+          "n": 4,
+          "aired": "1986-03-19",
+          "title": "Oolong the Terrible",
+          "kind": "canon"
+        },
+        {
+          "n": 5,
+          "aired": "1986-03-26",
+          "title": "Yamcha the Desert Bandit",
+          "kind": "canon"
+        },
+        {
+          "n": 6,
+          "aired": "1986-04-02",
+          "title": "Keep an Eye on the Dragon Balls",
+          "kind": "canon"
+        },
+        {
+          "n": 7,
+          "aired": "1986-04-09",
+          "title": "The Ox King on Fire Mountain",
+          "kind": "canon"
+        },
+        {
+          "n": 8,
+          "aired": "1986-04-16",
+          "title": "The Kamehameha Wave",
+          "kind": "canon"
+        },
+        {
+          "n": 9,
+          "aired": "1986-04-23",
+          "title": "Boss Rabbit's Magic Touch",
+          "kind": "canon"
+        },
+        {
+          "n": 10,
+          "aired": "1986-04-30",
+          "title": "The Dragon Balls are Stolen!",
+          "kind": "canon"
+        },
+        {
+          "n": 11,
+          "aired": "1986-05-07",
+          "title": "The Penalty is Pinball",
+          "kind": "mixed"
+        },
+        {
+          "n": 12,
+          "aired": "1986-05-14",
+          "title": "A Wish to the Eternal Dragon",
+          "kind": "mixed"
+        },
+        {
+          "n": 13,
+          "aired": "1986-05-21",
+          "title": "The Legend of Goku",
+          "kind": "canon"
+        },
+        {
+          "n": 14,
+          "aired": "1986-05-28",
+          "title": "Goku's Rival",
+          "kind": "canon"
+        },
+        {
+          "n": 15,
+          "aired": "1986-06-04",
+          "title": "Look Out for Launch",
+          "kind": "mixed"
+        },
+        {
+          "n": 16,
+          "aired": "1986-06-11",
+          "title": "Find That Stone!",
+          "kind": "canon"
+        },
+        {
+          "n": 17,
+          "aired": "1986-06-18",
+          "title": "Milk Delivery",
+          "kind": "mixed"
+        },
+        {
+          "n": 18,
+          "aired": "1986-06-25",
+          "title": "The Turtle Hermit Way",
+          "kind": "mixed"
+        },
+        {
+          "n": 19,
+          "aired": "1986-07-02",
+          "title": "The Tournament Begins",
+          "kind": "mixed"
+        },
+        {
+          "n": 20,
+          "aired": "1986-07-09",
+          "title": "Elimination Round",
+          "kind": "mixed"
+        },
+        {
+          "n": 21,
+          "aired": "1986-07-16",
+          "title": "Smells Like Trouble",
+          "kind": "canon"
+        },
+        {
+          "n": 22,
+          "aired": "1986-07-23",
+          "title": "Quarterfinals Continue",
+          "kind": "canon"
+        },
+        {
+          "n": 23,
+          "aired": "1986-07-30",
+          "title": "Monster Beast Giran",
+          "kind": "mixed"
+        },
+        {
+          "n": 24,
+          "aired": "1986-08-06",
+          "title": "Krillin's Frantic Attack!",
+          "kind": "canon"
+        },
+        {
+          "n": 25,
+          "aired": "1986-08-13",
+          "title": "Danger From Above",
+          "kind": "canon"
+        },
+        {
+          "n": 26,
+          "aired": "1986-08-20",
+          "title": "The Grand Finals",
+          "kind": "canon"
+        },
+        {
+          "n": 27,
+          "aired": "1986-08-27",
+          "title": "Number One Under the Moon?",
+          "kind": "canon"
+        },
+        {
+          "n": 28,
+          "aired": "1986-09-03",
+          "title": "The Final Blow",
+          "kind": "canon"
+        },
+        {
+          "n": 29,
+          "aired": "1986-09-10",
+          "title": "The Roaming Lake",
+          "kind": "mixed"
+        },
+        {
+          "n": 30,
+          "aired": "1986-09-17",
+          "title": "Pilaf and the Mystery Force",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Pilaf and the Mystery Force",
+              "revision": 2188373
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Pilaf and the Mystery Force",
+              "revision": 2188373
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "aired": "1986-09-24",
+          "title": "Wedding Plans?",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Wedding Plans?",
+              "revision": 2188501
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Wedding Plans?",
+              "revision": 2188501
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "aired": "1986-10-01",
+          "title": "The Flying Fortress – Vanished!",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "The Flying Fortress – Vanished!",
+              "revision": 2221199
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "The Flying Fortress – Vanished!",
+              "revision": 2221199
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "aired": "1986-10-08",
+          "title": "The Legend of a Dragon",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "The Legend of a Dragon",
+              "revision": 2188547
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "The Legend of a Dragon",
+              "revision": 2188547
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "aired": "1986-10-15",
+          "title": "Cruel General Red",
+          "kind": "mixed"
+        },
+        {
+          "n": 35,
+          "aired": "1986-10-22",
+          "title": "Cold Reception",
+          "kind": "canon"
+        },
+        {
+          "n": 36,
+          "aired": "1986-10-29",
+          "title": "Major Metallitron",
+          "kind": "mixed"
+        },
+        {
+          "n": 37,
+          "aired": "1986-11-05",
+          "title": "Ninja Murasaki is Coming",
+          "kind": "mixed"
+        },
+        {
+          "n": 38,
+          "aired": "1986-11-12",
+          "title": "Five Murasakis",
+          "kind": "mixed"
+        },
+        {
+          "n": 39,
+          "aired": "1986-11-19",
+          "title": "Mysterious Android No. 8",
+          "kind": "mixed"
+        },
+        {
+          "n": 40,
+          "aired": "1986-11-26",
+          "title": "Horrifying Buyon",
+          "kind": "mixed"
+        },
+        {
+          "n": 41,
+          "aired": "1986-12-03",
+          "title": "The Fall of Muscle Tower",
+          "kind": "canon"
+        },
+        {
+          "n": 42,
+          "aired": "1986-12-10",
+          "title": "The Secret of Dr. Flappe",
+          "kind": "mixed"
+        },
+        {
+          "n": 43,
+          "aired": "1986-12-17",
+          "title": "A Trip to the City",
+          "kind": "mixed"
+        },
+        {
+          "n": 44,
+          "aired": "1986-12-24",
+          "title": "Master Thief, Hasky",
+          "kind": "mixed"
+        },
+        {
+          "n": 45,
+          "aired": "1987-01-07",
+          "title": "Danger in the Air",
+          "kind": "mixed"
+        },
+        {
+          "n": 46,
+          "aired": "1987-01-14",
+          "title": "Bulma's Bad Day",
+          "kind": "mixed"
+        },
+        {
+          "n": 47,
+          "aired": "1987-01-21",
+          "title": "Kame House - Found!",
+          "kind": "mixed"
+        },
+        {
+          "n": 48,
+          "aired": "1987-01-28",
+          "title": "Deep Blue Sea",
+          "kind": "mixed"
+        },
+        {
+          "n": 49,
+          "aired": "1987-02-04",
+          "title": "Roshi Surprise",
+          "kind": "mixed"
+        },
+        {
+          "n": 50,
+          "aired": "1987-02-11",
+          "title": "The Trap is Sprung",
+          "kind": "mixed"
+        },
+        {
+          "n": 51,
+          "aired": "1987-02-18",
+          "title": "Beware of Robot",
+          "kind": "canon"
+        },
+        {
+          "n": 52,
+          "aired": "1987-02-25",
+          "title": "The Pirate Treasure",
+          "kind": "canon"
+        },
+        {
+          "n": 53,
+          "aired": "1987-03-04",
+          "title": "Blue, Black and Blue",
+          "kind": "mixed"
+        },
+        {
+          "n": 54,
+          "aired": "1987-03-11",
+          "title": "Escape from Pirate Cave",
+          "kind": "mixed"
+        },
+        {
+          "n": 55,
+          "aired": "1987-03-18",
+          "title": "Penguin Village",
+          "kind": "canon"
+        },
+        {
+          "n": 56,
+          "aired": "1987-03-25",
+          "title": "Strange Visitor",
+          "kind": "mixed"
+        },
+        {
+          "n": 57,
+          "aired": "1987-04-08",
+          "title": "Arale vs. Blue",
+          "kind": "mixed"
+        },
+        {
+          "n": 58,
+          "aired": "1987-04-15",
+          "title": "The Land of Korin",
+          "kind": "mixed"
+        },
+        {
+          "n": 59,
+          "aired": "1987-04-22",
+          "title": "The Notorious Mercenary",
+          "kind": "mixed"
+        },
+        {
+          "n": 60,
+          "aired": "1987-04-29",
+          "title": "Tao Attacks!",
+          "kind": "canon"
+        },
+        {
+          "n": 61,
+          "aired": "1987-05-06",
+          "title": "Korin Tower",
+          "kind": "mixed"
+        },
+        {
+          "n": 62,
+          "aired": "1987-05-13",
+          "title": "Sacred Water",
+          "kind": "canon"
+        },
+        {
+          "n": 63,
+          "aired": "1987-05-20",
+          "title": "The Return of Goku",
+          "kind": "canon"
+        },
+        {
+          "n": 64,
+          "aired": "1987-05-27",
+          "title": "The Last of Mercenary Tao",
+          "kind": "mixed"
+        },
+        {
+          "n": 65,
+          "aired": "1987-06-10",
+          "title": "Confront the Red Ribbon Army",
+          "kind": "canon"
+        },
+        {
+          "n": 66,
+          "aired": "1987-06-17",
+          "title": "A Real Bind",
+          "kind": "mixed"
+        },
+        {
+          "n": 67,
+          "aired": "1987-06-24",
+          "title": "The End of Commander Red",
+          "kind": "canon"
+        },
+        {
+          "n": 68,
+          "aired": "1987-07-01",
+          "title": "The Last Dragon Ball",
+          "kind": "mixed"
+        },
+        {
+          "n": 69,
+          "aired": "1987-07-08",
+          "title": "Who is Fortuneteller Baba?",
+          "kind": "canon"
+        },
+        {
+          "n": 70,
+          "aired": "1987-07-15",
+          "title": "We Are the Five Warriors",
+          "kind": "mixed"
+        },
+        {
+          "n": 71,
+          "aired": "1987-07-22",
+          "title": "Deadly Battle",
+          "kind": "canon"
+        },
+        {
+          "n": 72,
+          "aired": "1987-07-29",
+          "title": "Goku's Turn",
+          "kind": "mixed"
+        },
+        {
+          "n": 73,
+          "aired": "1987-08-05",
+          "title": "The Devilmite Beam",
+          "kind": "canon"
+        },
+        {
+          "n": 74,
+          "aired": "1987-08-12",
+          "title": "The Mysterious Fifth Man",
+          "kind": "canon"
+        },
+        {
+          "n": 75,
+          "aired": "1987-08-19",
+          "title": "The Strong Ones",
+          "kind": "canon"
+        },
+        {
+          "n": 76,
+          "aired": "1987-08-26",
+          "title": "True Colors of the Masked Man",
+          "kind": "mixed"
+        },
+        {
+          "n": 77,
+          "aired": "1987-09-02",
+          "title": "Pilaf's Tactics",
+          "kind": "canon"
+        },
+        {
+          "n": 78,
+          "aired": "1987-09-09",
+          "title": "The Eternal Dragon Rises",
+          "kind": "canon"
+        },
+        {
+          "n": 79,
+          "aired": "1987-09-16",
+          "title": "Terror and Plague",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Terror and Plague",
+              "revision": 2247980
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Terror and Plague",
+              "revision": 2247980
+            }
+          ]
+        },
+        {
+          "n": 80,
+          "aired": "1987-09-23",
+          "title": "Goku vs. Sky Dragon",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Goku vs. Sky Dragon",
+              "revision": 2247703
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Goku vs. Sky Dragon",
+              "revision": 2247703
+            }
+          ]
+        },
+        {
+          "n": 81,
+          "aired": "1987-09-30",
+          "title": "Goku Goes to Demon Land",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Goku Goes to Demon Land",
+              "revision": 2247700
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Goku Goes to Demon Land",
+              "revision": 2247700
+            }
+          ]
+        },
+        {
+          "n": 82,
+          "aired": "1987-10-07",
+          "title": "The Rampage of InoShikaCho",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "The Rampage of InoShikaCho",
+              "revision": 2247702
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "The Rampage of InoShikaCho",
+              "revision": 2247702
+            }
+          ]
+        },
+        {
+          "n": 83,
+          "aired": "1987-10-14",
+          "title": "Which Way to Papaya Island?",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Which Way to Papaya Island?",
+              "revision": 2247701
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Which Way to Papaya Island?",
+              "revision": 2247701
+            }
+          ]
+        },
+        {
+          "n": 84,
+          "aired": "1987-10-21",
+          "title": "Rivals and Arrivals",
+          "kind": "canon"
+        },
+        {
+          "n": 85,
+          "aired": "1987-10-28",
+          "title": "Preliminary Peril",
+          "kind": "mixed"
+        },
+        {
+          "n": 86,
+          "aired": "1987-11-04",
+          "title": "Then There Were Eight",
+          "kind": "canon"
+        },
+        {
+          "n": 87,
+          "aired": "1987-11-11",
+          "title": "Yamcha vs. Tien",
+          "kind": "mixed"
+        },
+        {
+          "n": 88,
+          "aired": "1987-11-18",
+          "title": "Yamcha's Big Break",
+          "kind": "mixed"
+        },
+        {
+          "n": 89,
+          "aired": "1987-11-25",
+          "title": "Full-Moon Vengeance",
+          "kind": "canon"
+        },
+        {
+          "n": 90,
+          "aired": "1987-12-02",
+          "title": "The Dodon Wave",
+          "kind": "canon"
+        },
+        {
+          "n": 91,
+          "aired": "1987-12-09",
+          "title": "Counting Controversy!!",
+          "kind": "canon"
+        },
+        {
+          "n": 92,
+          "aired": "1987-12-16",
+          "title": "Goku Enters the Ring",
+          "kind": "canon"
+        },
+        {
+          "n": 93,
+          "aired": "1987-12-23",
+          "title": "Tien Shinhan vs. Jackie Chun",
+          "kind": "canon"
+        },
+        {
+          "n": 94,
+          "aired": "1987-12-30",
+          "title": "Stepping Down",
+          "kind": "canon"
+        },
+        {
+          "n": 95,
+          "aired": "1988-01-06",
+          "title": "Goku vs. Krillin",
+          "kind": "canon"
+        },
+        {
+          "n": 96,
+          "aired": "1988-01-13",
+          "title": "Tail's Tale",
+          "kind": "canon"
+        },
+        {
+          "n": 97,
+          "aired": "1988-01-20",
+          "title": "Final Match: Goku vs. Tien",
+          "kind": "mixed"
+        },
+        {
+          "n": 98,
+          "aired": "1988-01-27",
+          "title": "Victory's Edge",
+          "kind": "mixed"
+        },
+        {
+          "n": 99,
+          "aired": "1988-02-03",
+          "title": "Tien's Insurrection",
+          "kind": "mixed"
+        },
+        {
+          "n": 100,
+          "aired": "1988-02-10",
+          "title": "The Spirit Cannon",
+          "kind": "canon"
+        },
+        {
+          "n": 101,
+          "aired": "1988-02-17",
+          "title": "The Fallen",
+          "kind": "canon"
+        },
+        {
+          "n": 102,
+          "aired": "1988-02-24",
+          "title": "Enter King Piccolo",
+          "kind": "mixed"
+        },
+        {
+          "n": 103,
+          "aired": "1988-03-02",
+          "title": "Tambourine Attacks!",
+          "kind": "mixed"
+        },
+        {
+          "n": 104,
+          "aired": "1988-03-09",
+          "title": "Mark of the Demon",
+          "kind": "mixed"
+        },
+        {
+          "n": 105,
+          "aired": "1988-03-16",
+          "title": "Here Comes Yajirobe",
+          "kind": "canon"
+        },
+        {
+          "n": 106,
+          "aired": "1988-03-23",
+          "title": "Terrible Tambourine",
+          "kind": "mixed"
+        },
+        {
+          "n": 107,
+          "aired": "1988-04-06",
+          "title": "Tien's Atonement",
+          "kind": "canon"
+        },
+        {
+          "n": 108,
+          "aired": "1988-04-13",
+          "title": "Goku's Revenge",
+          "kind": "canon"
+        },
+        {
+          "n": 109,
+          "aired": "1988-04-20",
+          "title": "Goku vs. King Piccolo",
+          "kind": "canon"
+        },
+        {
+          "n": 110,
+          "aired": "1988-05-04",
+          "title": "Piccolo Closes In",
+          "kind": "canon"
+        },
+        {
+          "n": 111,
+          "aired": "1988-05-11",
+          "title": "Roshi's Gambit",
+          "kind": "canon"
+        },
+        {
+          "n": 112,
+          "aired": "1988-05-18",
+          "title": "King Piccolo's Wish",
+          "kind": "canon"
+        },
+        {
+          "n": 113,
+          "aired": "1988-05-25",
+          "title": "Siege on Chow Castle",
+          "kind": "canon"
+        },
+        {
+          "n": 114,
+          "aired": "1988-06-01",
+          "title": "Conquest and Power",
+          "kind": "mixed"
+        },
+        {
+          "n": 115,
+          "aired": "1988-06-08",
+          "title": "Awaken Darkness",
+          "kind": "mixed"
+        },
+        {
+          "n": 116,
+          "aired": "1988-06-22",
+          "title": "A Taste of Destiny",
+          "kind": "mixed"
+        },
+        {
+          "n": 117,
+          "aired": "1988-06-29",
+          "title": "The Ultimate Sacrifice",
+          "kind": "mixed"
+        },
+        {
+          "n": 118,
+          "aired": "1988-07-06",
+          "title": "Prelude to Vengeance",
+          "kind": "canon"
+        },
+        {
+          "n": 119,
+          "aired": "1988-07-20",
+          "title": "Battle Cry",
+          "kind": "canon"
+        },
+        {
+          "n": 120,
+          "aired": "1988-07-27",
+          "title": "Goku Strikes Back",
+          "kind": "canon"
+        },
+        {
+          "n": 121,
+          "aired": "1988-08-03",
+          "title": "The Biggest Crisis",
+          "kind": "mixed"
+        },
+        {
+          "n": 122,
+          "aired": "1988-08-10",
+          "title": "Final Showdown",
+          "kind": "mixed"
+        },
+        {
+          "n": 123,
+          "aired": "1988-08-17",
+          "title": "Lost and Found",
+          "kind": "mixed"
+        },
+        {
+          "n": 124,
+          "aired": "1988-08-24",
+          "title": "Temple Above the Clouds",
+          "kind": "mixed"
+        },
+        {
+          "n": 125,
+          "aired": "1988-08-31",
+          "title": "Earth's Guardian Emerges",
+          "kind": "mixed"
+        },
+        {
+          "n": 126,
+          "aired": "1988-09-14",
+          "title": "Eternal Dragon Resurrected",
+          "kind": "mixed"
+        },
+        {
+          "n": 127,
+          "aired": "1988-09-21",
+          "title": "Quicker Than Lightning",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Quicker Than Lightning",
+              "revision": 2234713
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Quicker Than Lightning",
+              "revision": 2234713
+            }
+          ]
+        },
+        {
+          "n": 128,
+          "aired": "1988-09-28",
+          "title": "Secret of the Woods",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Secret of the Woods",
+              "revision": 2211202
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Secret of the Woods",
+              "revision": 2211202
+            }
+          ]
+        },
+        {
+          "n": 129,
+          "aired": "1988-10-12",
+          "title": "The Time Room",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "The Time Room",
+              "revision": 2255576
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "The Time Room",
+              "revision": 2255576
+            }
+          ]
+        },
+        {
+          "n": 130,
+          "aired": "1988-10-19",
+          "title": "Goku's Doll",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Goku's Doll",
+              "revision": 2202738
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Goku's Doll",
+              "revision": 2202738
+            }
+          ]
+        },
+        {
+          "n": 131,
+          "aired": "1988-10-26",
+          "title": "Walking Their Own Ways",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Walking Their Own Ways",
+              "revision": 2202734
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Walking Their Own Ways",
+              "revision": 2202734
+            }
+          ]
+        },
+        {
+          "n": 132,
+          "aired": "1988-11-02",
+          "title": "Hotter Than Lava",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Hotter Than Lava",
+              "revision": 2225445
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Hotter Than Lava",
+              "revision": 2225445
+            }
+          ]
+        },
+        {
+          "n": 133,
+          "aired": "1988-11-09",
+          "title": "Changes",
+          "kind": "mixed"
+        },
+        {
+          "n": 134,
+          "aired": "1988-11-16",
+          "title": "Preliminary Peril",
+          "kind": "mixed"
+        },
+        {
+          "n": 135,
+          "aired": "1988-11-23",
+          "title": "Battle of the Eight",
+          "kind": "mixed"
+        },
+        {
+          "n": 136,
+          "aired": "1988-11-30",
+          "title": "Tien Shinhan vs. Mercenary Tao",
+          "kind": "mixed"
+        },
+        {
+          "n": 137,
+          "aired": "1988-12-07",
+          "title": "Anonymous Proposal",
+          "kind": "mixed"
+        },
+        {
+          "n": 138,
+          "aired": "1988-12-14",
+          "title": "The Mysterious Hero",
+          "kind": "mixed"
+        },
+        {
+          "n": 139,
+          "aired": "1988-12-21",
+          "title": "Rematch",
+          "kind": "mixed"
+        },
+        {
+          "n": 140,
+          "aired": "1989-01-11",
+          "title": "Goku Gains Speed",
+          "kind": "mixed"
+        },
+        {
+          "n": 141,
+          "aired": "1989-01-18",
+          "title": "The Four Faces of Tien",
+          "kind": "canon"
+        },
+        {
+          "n": 142,
+          "aired": "1989-01-25",
+          "title": "Kami vs. Piccolo",
+          "kind": "mixed"
+        },
+        {
+          "n": 143,
+          "aired": "1989-02-01",
+          "title": "Battle for the Future",
+          "kind": "mixed"
+        },
+        {
+          "n": 144,
+          "aired": "1989-02-08",
+          "title": "Super Kamehameha",
+          "kind": "mixed"
+        },
+        {
+          "n": 145,
+          "aired": "1989-02-15",
+          "title": "Junior No More",
+          "kind": "mixed"
+        },
+        {
+          "n": 146,
+          "aired": "1989-02-22",
+          "title": "Goku's Trap",
+          "kind": "canon"
+        },
+        {
+          "n": 147,
+          "aired": "1989-03-01",
+          "title": "Goku Hangs On",
+          "kind": "canon"
+        },
+        {
+          "n": 148,
+          "aired": "1989-03-08",
+          "title": "The Victor",
+          "kind": "canon"
+        },
+        {
+          "n": 149,
+          "aired": "1989-03-15",
+          "title": "Dress in Flames",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Dress in Flames",
+              "revision": 2235509
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Dress in Flames",
+              "revision": 2235509
+            }
+          ]
+        },
+        {
+          "n": 150,
+          "aired": "1989-03-22",
+          "title": "The Fire-Eater",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "The Fire-Eater",
+              "revision": 2255579
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "The Fire-Eater",
+              "revision": 2255579
+            }
+          ]
+        },
+        {
+          "n": 151,
+          "aired": "1989-04-05",
+          "title": "Outrageous Octagon",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Outrageous Octagon",
+              "revision": 2181967
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Outrageous Octagon",
+              "revision": 2181967
+            }
+          ]
+        },
+        {
+          "n": 152,
+          "aired": "1989-04-12",
+          "title": "Mystery of the Dark World",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Mystery of the Dark World",
+              "revision": 2181154
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Mystery of the Dark World",
+              "revision": 2181154
+            }
+          ]
+        },
+        {
+          "n": 153,
+          "aired": "1989-04-19",
+          "title": "The End, The Beginning",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "The End, The Beginning",
+              "revision": 2253720
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "The End, The Beginning",
+              "revision": 2253720
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "dragonball",
+          "name": "Dragon Ball Wiki",
+          "licence": "CC BY-SA",
+          "licenceUrl": "https://www.fandom.com/licensing",
+          "url": "https://dragonball.fandom.com/",
+          "dumpDate": "Thu, 23 Jul 2026 22:39:07 GMT"
+        }
+      ]
+    },
+    {
+      "slug": "dragon-ball-super",
+      "title": "Dragon Ball Super",
+      "titles": [
+        "Dragon Ball Super",
+        "ドラゴンボール超",
+        "Dragon Ball Chō"
+      ],
+      "ids": {
+        "tvdb": 295068,
+        "imdb": "tt4644488",
+        "anidb": 11210,
+        "mal": 30694
+      },
+      "episodes": [
+        {
+          "n": 1,
+          "aired": "2015-07-05",
+          "title": "A Peacetime Reward Who Gets the 100,000,000 Zeni?!",
+          "kind": "canon"
+        },
+        {
+          "n": 2,
+          "aired": "2015-07-12",
+          "title": "To the Promised Resort! Vegeta Takes a Family Trip!",
+          "kind": "mixed"
+        },
+        {
+          "n": 3,
+          "aired": "2015-07-19",
+          "title": "Where Does the Dream Pick Up? Find the Super Saiyan God!",
+          "kind": "canon"
+        },
+        {
+          "n": 4,
+          "aired": "2015-08-02",
+          "title": "Bid for the Dragon Balls! Pilaf and Crew's Impossible Mission!",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Bid for the Dragon Balls! Pilaf and Crew's Impossible Mission!",
+              "revision": 2223441
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Bid for the Dragon Balls! Pilaf and Crew's Impossible Mission!",
+              "revision": 2223441
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "aired": "2015-08-09",
+          "title": "Showdown on King Kai's World! Goku vs. Beerus the Destroyer!",
+          "kind": "canon"
+        },
+        {
+          "n": 6,
+          "aired": "2015-08-16",
+          "title": "Don't Anger the Destroyer! A Heart-Pounding Birthday Party",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Don't Anger the Destroyer! A Heart-Pounding Birthday Party",
+              "revision": 2252606
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Don't Anger the Destroyer! A Heart-Pounding Birthday Party",
+              "revision": 2252606
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "aired": "2015-08-23",
+          "title": "How Dare You Do That To My Bulma! Vegeta's Metamorphosis of Fury?",
+          "kind": "canon"
+        },
+        {
+          "n": 8,
+          "aired": "2015-08-30",
+          "title": "Goku Makes an Entrance! A Last Chance from Lord Beerus?",
+          "kind": "canon"
+        },
+        {
+          "n": 9,
+          "aired": "2015-09-06",
+          "title": "Thanks for Waiting, Lord Beerus! A Super Saiyan God Is Born at Last!",
+          "kind": "canon"
+        },
+        {
+          "n": 10,
+          "aired": "2015-09-13",
+          "title": "Show Us, Goku! The Power of a Super Saiyan God!",
+          "kind": "canon"
+        },
+        {
+          "n": 11,
+          "aired": "2015-09-20",
+          "title": "Let's Keep Going, Lord Beerus! The Battle of Gods!",
+          "kind": "canon"
+        },
+        {
+          "n": 12,
+          "aired": "2015-09-27",
+          "title": "The Universe Will Shatter? Clash! Destroyer vs. Super Saiyan God!",
+          "kind": "canon"
+        },
+        {
+          "n": 13,
+          "aired": "2015-10-04",
+          "title": "Goku, Surpass Super Saiyan God!",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Goku, Surpass Super Saiyan God!",
+              "revision": 2240928
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Goku, Surpass Super Saiyan God!",
+              "revision": 2240928
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "aired": "2015-10-11",
+          "title": "This is All the Power I've Got! A Settlement Between Gods",
+          "kind": "mixed"
+        },
+        {
+          "n": 15,
+          "aired": "2015-10-18",
+          "title": "Valiant Mr. Satan, Work a Miracle! A Challenge from Outer Space!",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Valiant Mr. Satan, Work a Miracle! A Challenge from Outer Space!",
+              "revision": 2244074
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Valiant Mr. Satan, Work a Miracle! A Challenge from Outer Space!",
+              "revision": 2244074
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "aired": "2015-10-25",
+          "title": "Vegeta Becomes a Student?! Win Over Whis!",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Vegeta Becomes a Student?! Win Over Whis!",
+              "revision": 2223493
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Vegeta Becomes a Student?! Win Over Whis!",
+              "revision": 2223493
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "aired": "2015-11-01",
+          "title": "Pan is Born! And Goku Goes on a Training Journey?!",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Pan is Born! And Goku Goes on a Training Journey?!",
+              "revision": 2223491
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Pan is Born! And Goku Goes on a Training Journey?!",
+              "revision": 2223491
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "aired": "2015-11-08",
+          "title": "I'm Here, Too! Training Commences on Beerus' World",
+          "kind": "canon"
+        },
+        {
+          "n": 19,
+          "aired": "2015-11-15",
+          "title": "Despair Redux! The Return of the Evil Emperor, Frieza!",
+          "kind": "unknown"
+        },
+        {
+          "n": 20,
+          "aired": "2015-11-22",
+          "title": "A Warning from Jaco! Frieza and 1,000 Soldiers Close In",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "A Warning from Jaco! Frieza and 1,000 Soldiers Close In",
+              "revision": 2224204
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "A Warning from Jaco! Frieza and 1,000 Soldiers Close In",
+              "revision": 2224204
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "aired": "2015-11-29",
+          "title": "The Start of Vengeance! The Frieza Force's Malice Strikes Gohan!",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "The Start of Vengeance! The Frieza Force's Malice Strikes Gohan!",
+              "revision": 2223495
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "The Start of Vengeance! The Frieza Force's Malice Strikes Gohan!",
+              "revision": 2223495
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "aired": "2015-12-06",
+          "title": "Change! An Unexpected Return! His Name Is Ginyu!!",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Change! An Unexpected Return! His Name Is Ginyu!!",
+              "revision": 2223512
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Change! An Unexpected Return! His Name Is Ginyu!!",
+              "revision": 2223512
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "aired": "2015-12-13",
+          "title": "Earth! Gohan! Both on the Ropes! Hurry and Get Here, Goku!!",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Earth! Gohan! Both on the Ropes! Hurry and Get Here, Goku!!",
+              "revision": 2235041
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Earth! Gohan! Both on the Ropes! Hurry and Get Here, Goku!!",
+              "revision": 2235041
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "aired": "2015-12-20",
+          "title": "Clash! Frieza vs. Goku This Is the Result of My Training!",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Clash! Frieza vs. Goku This Is the Result of My Training!",
+              "revision": 2223511
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Clash! Frieza vs. Goku This Is the Result of My Training!",
+              "revision": 2223511
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "aired": "2015-12-27",
+          "title": "A Full-Throttle Battle! The Vengeful Golden Frieza",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "A Full-Throttle Battle! The Vengeful Golden Frieza",
+              "revision": 2223514
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "A Full-Throttle Battle! The Vengeful Golden Frieza",
+              "revision": 2223514
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "aired": "2016-01-10",
+          "title": "A Chance Appears in a Tight Spot! Launch a Counteroffensive, Goku!",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "A Chance Appears in a Tight Spot! Launch a Counteroffensive, Goku!",
+              "revision": 2240997
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "A Chance Appears in a Tight Spot! Launch a Counteroffensive, Goku!",
+              "revision": 2240997
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "aired": "2016-01-17",
+          "title": "The Earth Explodes?! A Decisive Kamehameha!",
+          "kind": "mixed"
+        },
+        {
+          "n": 28,
+          "aired": "2016-01-24",
+          "title": "The 6th Universe's Destroyer! His Name Is Champa!",
+          "kind": "canon"
+        },
+        {
+          "n": 29,
+          "aired": "2016-01-31",
+          "title": "Combat Matches Are a Go! The Captain Is Someone Stronger Than Goku",
+          "kind": "canon"
+        },
+        {
+          "n": 30,
+          "aired": "2016-02-07",
+          "title": "A Run-Through for the Competition! Who Are the Last Two Members?!",
+          "kind": "mixed"
+        },
+        {
+          "n": 31,
+          "aired": "2016-02-14",
+          "title": "Off to See Master Zuno! Find Out Where the Super Dragon Balls Are!",
+          "kind": "canon"
+        },
+        {
+          "n": 32,
+          "aired": "2016-02-21",
+          "title": "The Matches Begin! We're All Off to the \"Planet with No Name!\"",
+          "kind": "canon"
+        },
+        {
+          "n": 33,
+          "aired": "2016-02-28",
+          "title": "Surprise, 6th Universe! This is Super Saiyan Goku!",
+          "kind": "canon"
+        },
+        {
+          "n": 34,
+          "aired": "2016-03-06",
+          "title": "Piccolo vs. Frost! Stake It All on the Special Beam Cannon!",
+          "kind": "canon"
+        },
+        {
+          "n": 35,
+          "aired": "2016-03-20",
+          "title": "Turn Your Anger into Strength! Vegeta's Full-Bore Battle",
+          "kind": "mixed"
+        },
+        {
+          "n": 36,
+          "aired": "2016-03-27",
+          "title": "An Unexpectedly Uphill Battle! Vegeta's Great Blast of Fury!",
+          "kind": "canon"
+        },
+        {
+          "n": 37,
+          "aired": "2016-04-03",
+          "title": "Don't Forget Your Saiyan Pride! Vegeta vs. the 6th Universe's Saiyan",
+          "kind": "canon"
+        },
+        {
+          "n": 38,
+          "aired": "2016-04-10",
+          "title": "The 6th Universe's Mightiest Warrior! Engage the Assassin Hit!!",
+          "kind": "mixed"
+        },
+        {
+          "n": 39,
+          "aired": "2016-04-17",
+          "title": "A Developed \"Time Skip\" Counterstrike? Here Comes Goku's New Move!",
+          "kind": "canon"
+        },
+        {
+          "n": 40,
+          "aired": "2016-04-24",
+          "title": "A Decision at Last! Is the Winner Beerus? Or Is It Champa?",
+          "kind": "mixed"
+        },
+        {
+          "n": 41,
+          "aired": "2016-05-01",
+          "title": "Come Forth, Divine Dragon! And Grant My Wish, Peas and Carrots!",
+          "kind": "canon"
+        },
+        {
+          "n": 42,
+          "aired": "2016-05-08",
+          "title": "A Chaotic Victory Party! Showdown at Last?! Monaka vs. Goku!",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "A Chaotic Victory Party! Showdown at Last?! Monaka vs. Goku!",
+              "revision": 2223539
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "A Chaotic Victory Party! Showdown at Last?! Monaka vs. Goku!",
+              "revision": 2223539
+            }
+          ]
+        },
+        {
+          "n": 43,
+          "aired": "2016-05-15",
+          "title": "Goku's Energy Is Out of Control?! The Struggle to Look After Pan",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Goku's Energy Is Out of Control?! The Struggle to Look After Pan",
+              "revision": 2223540
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Goku's Energy Is Out of Control?! The Struggle to Look After Pan",
+              "revision": 2223540
+            }
+          ]
+        },
+        {
+          "n": 44,
+          "aired": "2016-05-22",
+          "title": "The Seal of Planet Pot-au-feu Secrets of the Unleashed Superhuman Water!",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "The Seal of Planet Pot-au-feu Secrets of the Unleashed Superhuman Water!",
+              "revision": 2244405
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "The Seal of Planet Pot-au-feu Secrets of the Unleashed Superhuman Water!",
+              "revision": 2244405
+            }
+          ]
+        },
+        {
+          "n": 45,
+          "aired": "2016-05-29",
+          "title": "Vegeta Disappears?! Menace of the Duplicate Vegeta!",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Vegeta Disappears?! Menace of the Duplicate Vegeta!",
+              "revision": 2223543
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Vegeta Disappears?! Menace of the Duplicate Vegeta!",
+              "revision": 2223543
+            }
+          ]
+        },
+        {
+          "n": 46,
+          "aired": "2016-06-05",
+          "title": "Goku vs. the Duplicate Vegeta! Which One Is Going to Win?!",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Goku vs. the Duplicate Vegeta! Which One Is Going to Win?!",
+              "revision": 2221697
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Goku vs. the Duplicate Vegeta! Which One Is Going to Win?!",
+              "revision": 2221697
+            }
+          ]
+        },
+        {
+          "n": 47,
+          "aired": "2016-06-12",
+          "title": "SOS from the Future: A Dark New Enemy Appears!",
+          "kind": "canon"
+        },
+        {
+          "n": 48,
+          "aired": "2016-06-19",
+          "title": "Hope!! Redux Awaken in the Present, Trunks",
+          "kind": "canon"
+        },
+        {
+          "n": 49,
+          "aired": "2016-06-26",
+          "title": "A Message From the Future The Incursion of Goku Black!",
+          "kind": "canon"
+        },
+        {
+          "n": 50,
+          "aired": "2016-07-03",
+          "title": "Goku vs. Black! A Closed-Off Road to the Future!",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Goku vs. Black! A Closed-Off Road to the Future!",
+              "revision": 2221593
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Goku vs. Black! A Closed-Off Road to the Future!",
+              "revision": 2221593
+            }
+          ]
+        },
+        {
+          "n": 51,
+          "aired": "2016-07-10",
+          "title": "Feelings That Transcend Time: Trunks and Mai",
+          "kind": "mixed"
+        },
+        {
+          "n": 52,
+          "aired": "2016-07-17",
+          "title": "Master and Pupil Reunited! Gohan and \"Future\" Trunks!",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Master and Pupil Reunited! Gohan and \"Future\" Trunks!",
+              "revision": 2224321
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Master and Pupil Reunited! Gohan and \"Future\" Trunks!",
+              "revision": 2224321
+            }
+          ]
+        },
+        {
+          "n": 53,
+          "aired": "2016-07-31",
+          "title": "Uncover Black's Identity! Off to the 10th Universe's World of the Kai's!",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Uncover Black's Identity! Off to the 10th Universe's World of the Kai's!",
+              "revision": 2221596
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Uncover Black's Identity! Off to the 10th Universe's World of the Kai's!",
+              "revision": 2221596
+            }
+          ]
+        },
+        {
+          "n": 54,
+          "aired": "2016-08-07",
+          "title": "He Who is of Saiyan Blood Trunks's Resolve",
+          "kind": "canon"
+        },
+        {
+          "n": 55,
+          "aired": "2016-08-21",
+          "title": "I'd Like to See Goku, You See A Summons From Grand Zeno!",
+          "kind": "canon"
+        },
+        {
+          "n": 56,
+          "aired": "2016-08-28",
+          "title": "Rematch with Goku Black! Enter Super Saiyan Rosé",
+          "kind": "canon"
+        },
+        {
+          "n": 57,
+          "aired": "2016-09-04",
+          "title": "A God with an Invincible Body The Advent of Zamasu",
+          "kind": "canon"
+        },
+        {
+          "n": 58,
+          "aired": "2016-09-11",
+          "title": "Zamasu and Black The Duo's Mystery Deepens",
+          "kind": "canon"
+        },
+        {
+          "n": 59,
+          "aired": "2016-09-25",
+          "title": "Protect The Supreme Kai Gowasu Destroy Zamasu!",
+          "kind": "mixed"
+        },
+        {
+          "n": 60,
+          "aired": "2016-10-02",
+          "title": "Into the Future Again Goku Black's True Identity Revealed!",
+          "kind": "canon"
+        },
+        {
+          "n": 61,
+          "aired": "2016-10-09",
+          "title": "Zamasu's Ambition The Storied \"Project 0 Mortals\" of Terror",
+          "kind": "mixed"
+        },
+        {
+          "n": 62,
+          "aired": "2016-10-16",
+          "title": "I Will Defend the World! Trunks' Furious Burst of Super Power!",
+          "kind": "mixed"
+        },
+        {
+          "n": 63,
+          "aired": "2016-10-23",
+          "title": "Don't You Disgrace Saiyan Cells! Vegeta's Fierce Battle Commences!",
+          "kind": "canon"
+        },
+        {
+          "n": 64,
+          "aired": "2016-10-30",
+          "title": "Worship Me! Give Praise Unto Me! The Explosive Birth of a Merged Zamasu!",
+          "kind": "canon"
+        },
+        {
+          "n": 65,
+          "aired": "2016-11-06",
+          "title": "Final Judgement? The Ultimate Power of an Absolute God",
+          "kind": "mixed"
+        },
+        {
+          "n": 66,
+          "aired": "2016-11-13",
+          "title": "Showdown! The Miraculous Power of Unyielding Warriors",
+          "kind": "canon"
+        },
+        {
+          "n": 67,
+          "aired": "2016-11-20",
+          "title": "With New Hope in His Heart - Farewell, Trunks",
+          "kind": "mixed"
+        },
+        {
+          "n": 68,
+          "aired": "2016-11-27",
+          "title": "Come Forth, Shenron! Whose Wish Will Be Granted?",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Come Forth, Shenron! Whose Wish Will Be Granted?",
+              "revision": 2206516
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Come Forth, Shenron! Whose Wish Will Be Granted?",
+              "revision": 2206516
+            }
+          ]
+        },
+        {
+          "n": 69,
+          "aired": "2016-12-04",
+          "title": "Goku vs. Arale! An Off-the-Wall Battle Spells the End of the Earth?",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Goku vs. Arale! An Off-the-Wall Battle Spells the End of the Earth?",
+              "revision": 2077942
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Goku vs. Arale! An Off-the-Wall Battle Spells the End of the Earth?",
+              "revision": 2077942
+            }
+          ]
+        },
+        {
+          "n": 70,
+          "aired": "2016-12-11",
+          "title": "A Challenge From Champa! This Time, a Baseball Game!",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "A Challenge From Champa! This Time, a Baseball Game!",
+              "revision": 2201316
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "A Challenge From Champa! This Time, a Baseball Game!",
+              "revision": 2201316
+            }
+          ]
+        },
+        {
+          "n": 71,
+          "aired": "2016-12-18",
+          "title": "Goku Dies! An Assassination That Must Be Executed!",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Goku Dies! An Assassination That Must Be Executed!",
+              "revision": 2221785
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Goku Dies! An Assassination That Must Be Executed!",
+              "revision": 2221785
+            }
+          ]
+        },
+        {
+          "n": 72,
+          "aired": "2016-12-25",
+          "title": "Will He Strike Back? The Unseen Killing Technique!",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Will He Strike Back? The Unseen Killing Technique!",
+              "revision": 2254358
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Will He Strike Back? The Unseen Killing Technique!",
+              "revision": 2254358
+            }
+          ]
+        },
+        {
+          "n": 73,
+          "aired": "2017-01-08",
+          "title": "Gohan's Plight! The Preposterous Great Saiyaman Film Adaptation?!",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Gohan's Plight! The Preposterous Great Saiyaman Film Adaptation?!",
+              "revision": 2199497
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Gohan's Plight! The Preposterous Great Saiyaman Film Adaptation?!",
+              "revision": 2199497
+            }
+          ]
+        },
+        {
+          "n": 74,
+          "aired": "2017-01-15",
+          "title": "For My Beloved Ones! The Indomitable Great Saiyaman!",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "For My Beloved Ones! The Indomitable Great Saiyaman!",
+              "revision": 2255581
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "For My Beloved Ones! The Indomitable Great Saiyaman!",
+              "revision": 2255581
+            }
+          ]
+        },
+        {
+          "n": 75,
+          "aired": "2017-01-22",
+          "title": "Goku and Krillin! Back to the Old Familiar Training Ground!",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Goku and Krillin! Back to the Old Familiar Training Ground!",
+              "revision": 2236979
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Goku and Krillin! Back to the Old Familiar Training Ground!",
+              "revision": 2236979
+            }
+          ]
+        },
+        {
+          "n": 76,
+          "aired": "2017-01-29",
+          "title": "Conquer the Terrifying Foes! Krillin's Fighting Spirit Rebounds!",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Conquer the Terrifying Foes! Krillin's Fighting Spirit Rebounds!",
+              "revision": 2198458
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Conquer the Terrifying Foes! Krillin's Fighting Spirit Rebounds!",
+              "revision": 2198458
+            }
+          ]
+        },
+        {
+          "n": 77,
+          "aired": "2017-02-05",
+          "title": "Let's Do It, Grand Zeno! The Universes' Best Tournament!!",
+          "kind": "canon"
+        },
+        {
+          "n": 78,
+          "aired": "2017-02-12",
+          "title": "Even The Universes' Gods Are Appalled?! The Lose-and-Perish Tournament of Power",
+          "kind": "canon"
+        },
+        {
+          "n": 79,
+          "aired": "2017-02-19",
+          "title": "The 9th Universe's Kicking Basil vs. The 7th Universe's Majin Buu!!",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "The 9th Universe's Kicking Basil vs. The 7th Universe's Majin Buu!!",
+              "revision": 2007622
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "The 9th Universe's Kicking Basil vs. The 7th Universe's Majin Buu!!",
+              "revision": 2007622
+            }
+          ]
+        },
+        {
+          "n": 80,
+          "aired": "2017-02-26",
+          "title": "Awaken Your Dormant Fighting Spirit! Gohan's Fight!",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Awaken Your Dormant Fighting Spirit! Gohan's Fight!",
+              "revision": 2222427
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Awaken Your Dormant Fighting Spirit! Gohan's Fight!",
+              "revision": 2222427
+            }
+          ]
+        },
+        {
+          "n": 81,
+          "aired": "2017-03-05",
+          "title": "Bergamo the Crusher vs. Goku! Whose Strength Reaches the Wild Blue Yonder?",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Bergamo the Crusher vs. Goku! Whose Strength Reaches the Wild Blue Yonder?",
+              "revision": 2253951
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Bergamo the Crusher vs. Goku! Whose Strength Reaches the Wild Blue Yonder?",
+              "revision": 2253951
+            }
+          ]
+        },
+        {
+          "n": 82,
+          "aired": "2017-03-19",
+          "title": "Goku Must Pay The Warrior of Justice Top Barges In!",
+          "kind": "canon"
+        },
+        {
+          "n": 83,
+          "aired": "2017-03-26",
+          "title": "Field The All-7th-Universe Team! Who Are The Mighty Ten?",
+          "kind": "mixed"
+        },
+        {
+          "n": 84,
+          "aired": "2017-04-02",
+          "title": "Goku the Talent Scout Recruit Krillin and Android 18",
+          "kind": "canon"
+        },
+        {
+          "n": 85,
+          "aired": "2017-04-09",
+          "title": "The Universes Go Into Action -- Each With Their Own Motives",
+          "kind": "mixed"
+        },
+        {
+          "n": 86,
+          "aired": "2017-04-16",
+          "title": "First Time Exchanging Blows! Android 17 vs. Goku!!",
+          "kind": "canon"
+        },
+        {
+          "n": 87,
+          "aired": "2017-04-23",
+          "title": "Hunt the Poaching Ring! Goku and Android 17's Joint Struggle!",
+          "kind": "mixed"
+        },
+        {
+          "n": 88,
+          "aired": "2017-04-30",
+          "title": "Gohan and Piccolo Master and Pupil Clash in Max Training!",
+          "kind": "canon"
+        },
+        {
+          "n": 89,
+          "aired": "2017-05-07",
+          "title": "A Mysterious Beauty Appears! The Enigma of the Tien Shin-Style Dojo?",
+          "kind": "mixed"
+        },
+        {
+          "n": 90,
+          "aired": "2017-05-14",
+          "title": "Staring Down the Wall to be Overcome Goku vs. Gohan",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Staring Down the Wall to be Overcome Goku vs. Gohan",
+              "revision": 2225425
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Staring Down the Wall to be Overcome Goku vs. Gohan",
+              "revision": 2225425
+            }
+          ]
+        },
+        {
+          "n": 91,
+          "aired": "2017-05-21",
+          "title": "Which Universe Will Win Their Place? The Mighty Warriors Gradually Assemble!",
+          "kind": "mixed"
+        },
+        {
+          "n": 92,
+          "aired": "2017-05-28",
+          "title": "A State of Emergency! Failure to Reach Ten Members!",
+          "kind": "mixed"
+        },
+        {
+          "n": 93,
+          "aired": "2017-06-04",
+          "title": "You're Our Tenth Warrior! Goku Approaches Frieza!!",
+          "kind": "mixed"
+        },
+        {
+          "n": 94,
+          "aired": "2017-06-11",
+          "title": "The Evil Emperor Returns! A Reception from Mysterious Assassins?",
+          "kind": "mixed"
+        },
+        {
+          "n": 95,
+          "aired": "2017-06-17",
+          "title": "Most Heinous! Most Evil! Frieza's Rampage!",
+          "kind": "mixed"
+        },
+        {
+          "n": 96,
+          "aired": "2017-06-25",
+          "title": "The Time Has Come! To the Null Realm with the Universes on the Line!",
+          "kind": "mixed"
+        },
+        {
+          "n": 97,
+          "aired": "2017-07-02",
+          "title": "Survive! The Tournament of Power Begins at Last!",
+          "kind": "canon"
+        },
+        {
+          "n": 98,
+          "aired": "2017-07-09",
+          "title": "Ah, the Uncertainty! A Universe Despairs!",
+          "kind": "canon"
+        },
+        {
+          "n": 99,
+          "aired": "2017-07-16",
+          "title": "Show Them! Krillin's Underlying Strength!",
+          "kind": "canon"
+        },
+        {
+          "n": 100,
+          "aired": "2017-07-23",
+          "title": "Rampage! A Crazed Warrior's Savagery Awakens!",
+          "kind": "canon"
+        },
+        {
+          "n": 101,
+          "aired": "2017-07-30",
+          "title": "Warriors of Justice Close In! The Pride Troopers!",
+          "kind": "canon"
+        },
+        {
+          "n": 102,
+          "aired": "2017-08-06",
+          "title": "The Power of Love Explodes? The 2nd Universe's Witchy Warriors!",
+          "kind": "canon"
+        },
+        {
+          "n": 103,
+          "aired": "2017-08-13",
+          "title": "Gohan, Get Ruthless! Showdown with the 10th Universe!",
+          "kind": "canon"
+        },
+        {
+          "n": 104,
+          "aired": "2017-08-20",
+          "title": "A Transcendent Light-Speed Battle Erupts! Goku and Hit's United Front!",
+          "kind": "canon"
+        },
+        {
+          "n": 105,
+          "aired": "2017-08-27",
+          "title": "A Valiant Fight! Master Roshi's Blaze of Glory!",
+          "kind": "unknown"
+        },
+        {
+          "n": 106,
+          "aired": "2017-09-03",
+          "title": "Find them Out! Deathmatch with a Furtive Attacker!",
+          "kind": "canon"
+        },
+        {
+          "n": 107,
+          "aired": "2017-09-17",
+          "title": "Revenge ‘‘F’’! A Cunning Trap is Set?",
+          "kind": "canon"
+        },
+        {
+          "n": 108,
+          "aired": "2017-09-24",
+          "title": "Frieza and Frost! A Mutual Malevolence?",
+          "kind": "canon"
+        },
+        {
+          "n": 109,
+          "aired": "2017-10-08",
+          "title": "The Mightiest Enemy Zeroes in on Goku! Launch the Knockout Spirit Bomb Now!",
+          "kind": "canon"
+        },
+        {
+          "n": 110,
+          "aired": "2017-10-08",
+          "title": "Goku Enkindled! The Awakened One's New Ultra Instinct!",
+          "kind": "canon"
+        },
+        {
+          "n": 111,
+          "aired": "2017-10-15",
+          "title": "An Extra-Dimensional Ultimate Battle! Hit vs. Jiren!",
+          "kind": "canon"
+        },
+        {
+          "n": 112,
+          "aired": "2017-10-22",
+          "title": "A Saiyan Oath! Vegeta's Resolve!",
+          "kind": "canon"
+        },
+        {
+          "n": 113,
+          "aired": "2017-10-29",
+          "title": "With Great Joy! The Fighting Freak Saiyans' Battle Rejoined!",
+          "kind": "unknown"
+        },
+        {
+          "n": 114,
+          "aired": "2017-11-05",
+          "title": "Bloodcurdling! The Explosive Birth of a New Super Warrior!",
+          "kind": "canon"
+        },
+        {
+          "n": 115,
+          "aired": "2017-11-12",
+          "title": "Goku vs. Kefla! Super Saiyan Blue Beaten?",
+          "kind": "canon"
+        },
+        {
+          "n": 116,
+          "aired": "2017-11-19",
+          "title": "Signs of a Turnabout! The Autonomous Ultra Instinct Erupts!",
+          "kind": "canon"
+        },
+        {
+          "n": 117,
+          "aired": "2017-11-26",
+          "title": "Showdown of Love! The Androids vs. the 2nd Universe!",
+          "kind": "canon"
+        },
+        {
+          "n": 118,
+          "aired": "2017-12-03",
+          "title": "Accelerating Tragedy Vanishing Universes",
+          "kind": "canon"
+        },
+        {
+          "n": 119,
+          "aired": "2017-12-10",
+          "title": "Unavoidable? The Ferocity of a Stealth Attack!",
+          "kind": "canon"
+        },
+        {
+          "n": 120,
+          "aired": "2017-12-17",
+          "title": "A Perfect Survival Strategy! The 3rd Universe's Menacing Assassin!",
+          "kind": "unknown"
+        },
+        {
+          "n": 121,
+          "aired": "2017-12-24",
+          "title": "All-Out War! The Ultimate Four-Fold Union vs. the 7th Universe's Total Offensive!",
+          "kind": "canon"
+        },
+        {
+          "n": 122,
+          "aired": "2018-01-07",
+          "title": "With His Pride on the Line! Vegeta's Challenge to Be the Strongest!",
+          "kind": "canon"
+        },
+        {
+          "n": 123,
+          "aired": "2018-01-14",
+          "title": "Body, Soul and Power Unleashed! Goku and Vegeta!",
+          "kind": "canon"
+        },
+        {
+          "n": 124,
+          "aired": "2018-01-21",
+          "title": "A Storm-and-Stress Assault! Gohan's Last Stand!",
+          "kind": "canon"
+        },
+        {
+          "n": 125,
+          "aired": "2018-01-28",
+          "title": "A Commanding Presence! The Advent of Top the Destroyer!",
+          "kind": "canon"
+        },
+        {
+          "n": 126,
+          "aired": "2018-02-04",
+          "title": "Surpass Even a God! Vegeta's Sacrifice Strike!",
+          "kind": "canon"
+        },
+        {
+          "n": 127,
+          "aired": "2018-02-11",
+          "title": "The Approaching Wall! A Hopeful Final Barrier!",
+          "kind": "canon"
+        },
+        {
+          "n": 128,
+          "aired": "2018-02-18",
+          "title": "To the Noble, Proud End! Vegeta Falls!",
+          "kind": "canon"
+        },
+        {
+          "n": 129,
+          "aired": "2018-03-04",
+          "title": "A Transcendent Limit Break! Autonomous Ultra Instinct Mastered!",
+          "kind": "canon"
+        },
+        {
+          "n": 130,
+          "aired": "2018-03-18",
+          "title": "The Greatest Showdown of All Time! The Ultimate Survival Battle!",
+          "kind": "canon"
+        },
+        {
+          "n": 131,
+          "aired": "2018-03-25",
+          "title": "A Miraculous Conclusion! Farewell Goku! Until We Meet Again!",
+          "kind": "canon"
+        }
+      ],
+      "ranges": [
+        {
+          "from": 1,
+          "to": 27,
+          "retells": [
+            "Dragon Ball Z: Battle of Gods",
+            "Dragon Ball Z: Resurrection 'F'"
+          ],
+          "source": "wikipedia",
+          "url": "https://en.wikipedia.org/w/index.php?title=List_of_Dragon_Ball_Super_episodes&oldid=1381840984",
+          "quote": "The series begins with a re-telling of the events of the final two Dragon Ball Z films, Battle of Gods (2013) and Resurrection 'F' (2015)"
+        }
+      ],
+      "arcs": [
+        {
+          "name": "Beerus",
+          "from": 1,
+          "to": 18
+        },
+        {
+          "name": "Golden Frieza",
+          "from": 19,
+          "to": 27
+        },
+        {
+          "name": "Universe 6",
+          "from": 28,
+          "to": 46
+        },
+        {
+          "name": "Goku Black",
+          "from": 47,
+          "to": 76
+        },
+        {
+          "name": "Universe Survival",
+          "from": 77,
+          "to": 131
+        }
+      ],
+      "sources": [
+        {
+          "id": "dragonball",
+          "name": "Dragon Ball Wiki",
+          "licence": "CC BY-SA",
+          "licenceUrl": "https://www.fandom.com/licensing",
+          "url": "https://dragonball.fandom.com/",
+          "dumpDate": "Thu, 23 Jul 2026 22:39:07 GMT"
+        },
+        {
+          "id": "wikipedia",
+          "name": "Wikipedia",
+          "licence": "CC BY-SA 4.0",
+          "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "url": "https://en.wikipedia.org/w/index.php?title=List_of_Dragon_Ball_Super_episodes&oldid=1381840984"
+        }
+      ]
+    },
+    {
+      "slug": "dragon-ball-z",
+      "title": "Dragon Ball Z",
+      "titles": [
+        "Dragon Ball Z",
+        "ドラゴンボールZ"
+      ],
+      "ids": {
+        "tvdb": 81472,
+        "imdb": "tt0121220",
+        "anidb": 1530,
+        "mal": 813
+      },
+      "episodes": [
+        {
+          "n": 1,
+          "aired": "1989-04-26",
+          "title": "The New Threat",
+          "kind": "mixed"
+        },
+        {
+          "n": 2,
+          "aired": "1989-05-03",
+          "title": "Reunions",
+          "kind": "mixed"
+        },
+        {
+          "n": 3,
+          "aired": "1989-05-10",
+          "title": "Unlikely Alliance",
+          "kind": "mixed"
+        },
+        {
+          "n": 4,
+          "aired": "1989-05-17",
+          "title": "Piccolo's Plan",
+          "kind": "mixed"
+        },
+        {
+          "n": 5,
+          "aired": "1989-05-24",
+          "title": "Gohan's Rage",
+          "kind": "mixed"
+        },
+        {
+          "n": 6,
+          "aired": "1989-06-07",
+          "title": "No Time Like The Present",
+          "kind": "mixed"
+        },
+        {
+          "n": 7,
+          "aired": "1989-06-14",
+          "title": "Day 1",
+          "kind": "mixed"
+        },
+        {
+          "n": 8,
+          "aired": "1989-06-21",
+          "title": "Gohan Goes Bananas!",
+          "kind": "mixed"
+        },
+        {
+          "n": 9,
+          "aired": "1989-06-28",
+          "title": "The Strangest Robot",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "The Strangest Robot",
+              "revision": 2247105
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "The Strangest Robot",
+              "revision": 2247105
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "aired": "1989-07-05",
+          "title": "A New Friend",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "A New Friend",
+              "revision": 2234998
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "A New Friend",
+              "revision": 2234998
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "aired": "1989-07-12",
+          "title": "Terror on Arlia",
+          "kind": "canon"
+        },
+        {
+          "n": 12,
+          "aired": "1989-07-19",
+          "title": "Global Training",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Global Training",
+              "revision": 2134040
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Global Training",
+              "revision": 2134040
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "aired": "1989-07-26",
+          "title": "Goz and Mez",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Goz and Mez",
+              "revision": 2244565
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Goz and Mez",
+              "revision": 2244565
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "aired": "1989-08-02",
+          "title": "Princess Snake",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Princess Snake (episode)",
+              "revision": 2190778
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Princess Snake (episode)",
+              "revision": 2190778
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "aired": "1989-08-09",
+          "title": "Dueling Piccolos",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Dueling Piccolos",
+              "revision": 2108871
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Dueling Piccolos",
+              "revision": 2108871
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "aired": "1989-08-16",
+          "title": "Plight of the Children",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Plight of the Children",
+              "revision": 2226675
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Plight of the Children",
+              "revision": 2226675
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "aired": "1989-08-30",
+          "title": "Pendulum Room Peril",
+          "kind": "mixed"
+        },
+        {
+          "n": 18,
+          "aired": "1989-09-06",
+          "title": "The End of Snake Way",
+          "kind": "mixed"
+        },
+        {
+          "n": 19,
+          "aired": "1989-09-13",
+          "title": "Defying Gravity",
+          "kind": "canon"
+        },
+        {
+          "n": 20,
+          "aired": "1989-09-20",
+          "title": "Goku's Ancestors",
+          "kind": "canon"
+        },
+        {
+          "n": 21,
+          "aired": "1989-09-27",
+          "title": "Counting Down",
+          "kind": "canon"
+        },
+        {
+          "n": 22,
+          "aired": "1989-10-11",
+          "title": "The Darkest Day",
+          "kind": "mixed"
+        },
+        {
+          "n": 23,
+          "aired": "1989-10-18",
+          "title": "Saibamen Attack!",
+          "kind": "mixed"
+        },
+        {
+          "n": 24,
+          "aired": "1989-10-25",
+          "title": "The Power of Nappa",
+          "kind": "mixed"
+        },
+        {
+          "n": 25,
+          "aired": "1989-11-01",
+          "title": "Sacrifice",
+          "kind": "mixed"
+        },
+        {
+          "n": 26,
+          "aired": "1989-11-08",
+          "title": "Nappa's Rampage",
+          "kind": "mixed"
+        },
+        {
+          "n": 27,
+          "aired": "1989-11-22",
+          "title": "Nimbus Speed",
+          "kind": "mixed"
+        },
+        {
+          "n": 28,
+          "aired": "1989-11-29",
+          "title": "Goku's Arrival",
+          "kind": "mixed"
+        },
+        {
+          "n": 29,
+          "aired": "1989-12-06",
+          "title": "Lesson Number One",
+          "kind": "mixed"
+        },
+        {
+          "n": 30,
+          "aired": "1989-12-13",
+          "title": "Goku vs. Vegeta",
+          "kind": "mixed"
+        },
+        {
+          "n": 31,
+          "aired": "1989-12-20",
+          "title": "Saiyan Sized Secret",
+          "kind": "mixed"
+        },
+        {
+          "n": 32,
+          "aired": "1990-01-17",
+          "title": "Spirit Bomb Away!",
+          "kind": "mixed"
+        },
+        {
+          "n": 33,
+          "aired": "1990-01-24",
+          "title": "Hero in the Shadows",
+          "kind": "mixed"
+        },
+        {
+          "n": 34,
+          "aired": "1990-01-31",
+          "title": "Krillin's Offensive",
+          "kind": "mixed"
+        },
+        {
+          "n": 35,
+          "aired": "1990-02-07",
+          "title": "Mercy",
+          "kind": "canon"
+        },
+        {
+          "n": 36,
+          "aired": "1990-02-14",
+          "title": "Picking Up the Pieces",
+          "kind": "mixed"
+        },
+        {
+          "n": 37,
+          "aired": "1990-02-21",
+          "title": "Plans for Departure",
+          "kind": "canon"
+        },
+        {
+          "n": 38,
+          "aired": "1990-02-28",
+          "title": "Nursing Wounds",
+          "kind": "mixed"
+        },
+        {
+          "n": 39,
+          "aired": "1990-03-07",
+          "title": "Friends or Foes?",
+          "kind": "mixed"
+        },
+        {
+          "n": 40,
+          "aired": "1990-03-14",
+          "title": "Held Captive",
+          "kind": "mixed"
+        },
+        {
+          "n": 41,
+          "aired": "1990-03-21",
+          "title": "Look Out Below",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Look Out Below",
+              "revision": 2235871
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Look Out Below",
+              "revision": 2235871
+            }
+          ]
+        },
+        {
+          "n": 42,
+          "aired": "1990-04-04",
+          "title": "The Search Continues",
+          "kind": "mixed"
+        },
+        {
+          "n": 43,
+          "aired": "1990-04-11",
+          "title": "A Friendly Surprise",
+          "kind": "mixed"
+        },
+        {
+          "n": 44,
+          "aired": "1990-04-18",
+          "title": "Brood of Evil",
+          "kind": "mixed"
+        },
+        {
+          "n": 45,
+          "title": "Immortality Denied",
+          "kind": "canon"
+        },
+        {
+          "n": 46,
+          "aired": "1990-05-02",
+          "title": "Defying Orders",
+          "kind": "mixed"
+        },
+        {
+          "n": 47,
+          "aired": "1990-05-09",
+          "title": "Namek's Defense",
+          "kind": "mixed"
+        },
+        {
+          "n": 48,
+          "aired": "1990-05-16",
+          "title": "The Hunted",
+          "kind": "mixed"
+        },
+        {
+          "n": 49,
+          "aired": "1990-05-23",
+          "title": "The Prince Fights Back",
+          "kind": "mixed"
+        },
+        {
+          "n": 50,
+          "aired": "1990-05-30",
+          "title": "Unexpected Problem",
+          "kind": "mixed"
+        },
+        {
+          "n": 51,
+          "aired": "1990-06-06",
+          "title": "Vegeta Has a Ball",
+          "kind": "canon"
+        },
+        {
+          "n": 52,
+          "aired": "1990-06-20",
+          "title": "The Past and Future",
+          "kind": "mixed"
+        },
+        {
+          "n": 53,
+          "aired": "1990-06-27",
+          "title": "Zarbon's Surprise",
+          "kind": "mixed"
+        },
+        {
+          "n": 54,
+          "aired": "1990-07-04",
+          "title": "Guru's Gift",
+          "kind": "mixed"
+        },
+        {
+          "n": 55,
+          "aired": "1990-07-18",
+          "title": "Piccolo vs. Everyone",
+          "kind": "mixed"
+        },
+        {
+          "n": 56,
+          "aired": "1990-08-01",
+          "title": "Zarbon's Mission",
+          "kind": "mixed"
+        },
+        {
+          "n": 57,
+          "aired": "1990-08-08",
+          "title": "Gohan, the Hunted",
+          "kind": "mixed"
+        },
+        {
+          "n": 58,
+          "aired": "1990-08-22",
+          "title": "Unknown Enemies",
+          "kind": "mixed"
+        },
+        {
+          "n": 59,
+          "aired": "1990-08-29",
+          "title": "Destination: Guru",
+          "kind": "mixed"
+        },
+        {
+          "n": 60,
+          "aired": "1990-09-05",
+          "title": "Bulma's Big Day",
+          "kind": "mixed"
+        },
+        {
+          "n": 61,
+          "aired": "1990-09-12",
+          "title": "Hidden Power",
+          "kind": "mixed"
+        },
+        {
+          "n": 62,
+          "aired": "1990-09-19",
+          "title": "New Ally, New Problem",
+          "kind": "mixed"
+        },
+        {
+          "n": 63,
+          "aired": "1990-09-26",
+          "title": "Guldo's Mind Binds",
+          "kind": "mixed"
+        },
+        {
+          "n": 64,
+          "aired": "1990-10-24",
+          "title": "Recoome Unleashed",
+          "kind": "mixed"
+        },
+        {
+          "n": 65,
+          "aired": "1990-10-31",
+          "title": "Let the Battle Begin",
+          "kind": "mixed"
+        },
+        {
+          "n": 66,
+          "aired": "1990-11-07",
+          "title": "Goku's New Power",
+          "kind": "mixed"
+        },
+        {
+          "n": 67,
+          "aired": "1990-11-14",
+          "title": "A Legend Revealed",
+          "kind": "mixed"
+        },
+        {
+          "n": 68,
+          "aired": "1990-11-21",
+          "title": "Ginyu Assault",
+          "kind": "mixed"
+        },
+        {
+          "n": 69,
+          "title": "Incredible Force!",
+          "kind": "mixed"
+        },
+        {
+          "n": 70,
+          "title": "Frieza Approaches",
+          "kind": "mixed"
+        },
+        {
+          "n": 71,
+          "aired": "1990-12-12",
+          "title": "Goku is Ginyu and Ginyu is Goku",
+          "kind": "mixed"
+        },
+        {
+          "n": 72,
+          "aired": "1990-12-19",
+          "title": "Calling the Eternal Dragon",
+          "kind": "mixed"
+        },
+        {
+          "n": 73,
+          "aired": "1991-01-16",
+          "title": "Gohan, Defeat Your Dad!!",
+          "kind": "mixed"
+        },
+        {
+          "n": 74,
+          "aired": "1991-01-23",
+          "title": "Captain Ginyu... The Frog",
+          "kind": "mixed"
+        },
+        {
+          "n": 75,
+          "aired": "1991-01-30",
+          "title": "Password is Porunga",
+          "kind": "mixed"
+        },
+        {
+          "n": 76,
+          "aired": "1991-02-06",
+          "title": "Piccolo's Return",
+          "kind": "mixed"
+        },
+        {
+          "n": 77,
+          "aired": "1991-02-13",
+          "title": "The Fusion",
+          "kind": "canon"
+        },
+        {
+          "n": 78,
+          "aired": "1991-02-20",
+          "title": "Fighting Power: One Million??",
+          "kind": "mixed"
+        },
+        {
+          "n": 79,
+          "aired": "1991-02-27",
+          "title": "Gohan Attacks",
+          "kind": "mixed"
+        },
+        {
+          "n": 80,
+          "aired": "1991-03-06",
+          "title": "Piccolo the Super-Namek",
+          "kind": "mixed"
+        },
+        {
+          "n": 81,
+          "aired": "1991-03-13",
+          "title": "Déjà vu",
+          "kind": "mixed"
+        },
+        {
+          "n": 82,
+          "aired": "1991-03-20",
+          "title": "Frieza's Second Transformation",
+          "kind": "mixed"
+        },
+        {
+          "n": 83,
+          "aired": "1991-03-27",
+          "title": "Another Transformation?",
+          "kind": "mixed"
+        },
+        {
+          "n": 84,
+          "aired": "1991-04-03",
+          "title": "Dende's Demise",
+          "kind": "mixed"
+        },
+        {
+          "n": 85,
+          "aired": "1991-04-10",
+          "title": "The Renewed Goku",
+          "kind": "mixed"
+        },
+        {
+          "n": 86,
+          "aired": "1991-04-17",
+          "title": "The End of Vegeta",
+          "kind": "mixed"
+        },
+        {
+          "n": 87,
+          "aired": "1991-04-24",
+          "title": "The Ultimate Battle",
+          "kind": "mixed"
+        },
+        {
+          "n": 88,
+          "aired": "1991-05-01",
+          "title": "Clash of the Super Powers",
+          "kind": "mixed"
+        },
+        {
+          "n": 89,
+          "aired": "1991-05-08",
+          "title": "Frieza's Boast",
+          "kind": "mixed"
+        },
+        {
+          "n": 90,
+          "aired": "1991-05-15",
+          "title": "Bold and Fearless",
+          "kind": "mixed"
+        },
+        {
+          "n": 91,
+          "aired": "1991-05-22",
+          "title": "Embodiment of Fire",
+          "kind": "mixed"
+        },
+        {
+          "n": 92,
+          "aired": "1991-05-29",
+          "title": "Trump Card",
+          "kind": "mixed"
+        },
+        {
+          "n": 93,
+          "aired": "1991-06-05",
+          "title": "Keep the Chance Alive",
+          "kind": "mixed"
+        },
+        {
+          "n": 94,
+          "aired": "1991-06-12",
+          "title": "Power of the Spirit",
+          "kind": "mixed"
+        },
+        {
+          "n": 95,
+          "aired": "1991-06-19",
+          "title": "Transformed at Last",
+          "kind": "mixed"
+        },
+        {
+          "n": 96,
+          "aired": "1991-06-26",
+          "title": "Explosion of Anger",
+          "kind": "mixed"
+        },
+        {
+          "n": 97,
+          "aired": "1991-07-03",
+          "title": "Namek's Destruction",
+          "kind": "mixed"
+        },
+        {
+          "n": 98,
+          "aired": "1991-07-10",
+          "title": "A Final Attack",
+          "kind": "mixed"
+        },
+        {
+          "n": 99,
+          "aired": "1991-07-17",
+          "title": "Approaching Destruction",
+          "kind": "canon"
+        },
+        {
+          "n": 100,
+          "aired": "1991-07-24",
+          "title": "Gohan Returns",
+          "kind": "mixed"
+        },
+        {
+          "n": 101,
+          "aired": "1991-07-31",
+          "title": "The Last Wish",
+          "kind": "mixed"
+        },
+        {
+          "n": 102,
+          "aired": "1991-08-07",
+          "title": "Duel on a Vanishing Planet",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Duel on a Vanishing Planet",
+              "revision": 2249308
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Duel on a Vanishing Planet",
+              "revision": 2249308
+            }
+          ]
+        },
+        {
+          "n": 103,
+          "aired": "1991-08-14",
+          "title": "Pathos of Frieza",
+          "kind": "mixed"
+        },
+        {
+          "n": 104,
+          "aired": "1991-08-21",
+          "title": "Frieza Defeated!!",
+          "kind": "mixed"
+        },
+        {
+          "n": 105,
+          "aired": "1991-08-28",
+          "title": "Mighty Blast of Rage",
+          "kind": "canon"
+        },
+        {
+          "n": 106,
+          "aired": "1991-09-04",
+          "title": "Namek's Explosion... Goku's End?",
+          "kind": "mixed"
+        },
+        {
+          "n": 107,
+          "aired": "1991-09-11",
+          "title": "Goku's Alive!!",
+          "kind": "mixed"
+        },
+        {
+          "n": 108,
+          "aired": "1991-09-18",
+          "title": "The Heavens Tremble",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "The Heavens Tremble",
+              "revision": 2256161
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "The Heavens Tremble",
+              "revision": 2256161
+            }
+          ]
+        },
+        {
+          "n": 109,
+          "aired": "1991-09-25",
+          "title": "Black Fog of Terror",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Black Fog of Terror",
+              "revision": 2225593
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Black Fog of Terror",
+              "revision": 2225593
+            }
+          ]
+        },
+        {
+          "n": 110,
+          "aired": "1991-10-02",
+          "title": "Battle in Kami's Lookout",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Battle in Kami's Lookout",
+              "revision": 2247511
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Battle in Kami's Lookout",
+              "revision": 2247511
+            }
+          ]
+        },
+        {
+          "n": 111,
+          "aired": "1991-10-09",
+          "title": "Fight With Piccolo",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Fight With Piccolo",
+              "revision": 2247615
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Fight With Piccolo",
+              "revision": 2247615
+            }
+          ]
+        },
+        {
+          "n": 112,
+          "aired": "1991-10-16",
+          "title": "Call For Restoration",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Call For Restoration",
+              "revision": 2247612
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Call For Restoration",
+              "revision": 2247612
+            }
+          ]
+        },
+        {
+          "n": 113,
+          "aired": "1991-10-23",
+          "title": "Suicidal Course",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Suicidal Course",
+              "revision": 2247618
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Suicidal Course",
+              "revision": 2247618
+            }
+          ]
+        },
+        {
+          "n": 114,
+          "aired": "1991-10-30",
+          "title": "Extreme Measures",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Extreme Measures",
+              "revision": 2207056
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Extreme Measures",
+              "revision": 2207056
+            }
+          ]
+        },
+        {
+          "n": 115,
+          "aired": "1991-11-06",
+          "title": "The World Awakens",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "The World Awakens",
+              "revision": 2224721
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "The World Awakens",
+              "revision": 2224721
+            }
+          ]
+        },
+        {
+          "n": 116,
+          "aired": "1991-11-13",
+          "title": "Brief Chance for Victory",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Brief Chance for Victory",
+              "revision": 2248888
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Brief Chance for Victory",
+              "revision": 2248888
+            }
+          ]
+        },
+        {
+          "n": 117,
+          "aired": "1991-11-20",
+          "title": "Krillin's Proposal",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Krillin's Proposal",
+              "revision": 2235465
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Krillin's Proposal",
+              "revision": 2235465
+            }
+          ]
+        },
+        {
+          "n": 118,
+          "aired": "1991-11-27",
+          "title": "Frieza's Counterattack",
+          "kind": "mixed"
+        },
+        {
+          "n": 119,
+          "aired": "1991-12-04",
+          "title": "The Mysterious Youth",
+          "kind": "mixed"
+        },
+        {
+          "n": 120,
+          "aired": "1991-12-11",
+          "title": "Another Super Saiyan?",
+          "kind": "mixed"
+        },
+        {
+          "n": 121,
+          "aired": "1991-12-18",
+          "title": "Welcome Back Goku",
+          "kind": "mixed"
+        },
+        {
+          "n": 122,
+          "aired": "1992-01-15",
+          "title": "Mystery Revealed",
+          "kind": "mixed"
+        },
+        {
+          "n": 123,
+          "aired": "1992-01-22",
+          "title": "Goku's Special Technique",
+          "kind": "mixed"
+        },
+        {
+          "n": 124,
+          "aired": "1992-01-29",
+          "title": "Z Warriors Prepare",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Z Warriors Prepare",
+              "revision": 2213036
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Z Warriors Prepare",
+              "revision": 2213036
+            }
+          ]
+        },
+        {
+          "n": 125,
+          "aired": "1992-02-05",
+          "title": "Goku's Ordeal",
+          "kind": "mixed"
+        },
+        {
+          "n": 126,
+          "aired": "1992-02-12",
+          "title": "The Androids Appear",
+          "kind": "mixed"
+        },
+        {
+          "n": 127,
+          "aired": "1992-02-19",
+          "title": "A Handy Trick",
+          "kind": "mixed"
+        },
+        {
+          "n": 128,
+          "aired": "1992-02-26",
+          "title": "Double Trouble for Goku",
+          "kind": "mixed"
+        },
+        {
+          "n": 129,
+          "aired": "1992-03-04",
+          "title": "Upgrade to Super Saiyan",
+          "kind": "mixed"
+        },
+        {
+          "n": 130,
+          "aired": "1992-03-11",
+          "title": "The Secret of Dr. Gero",
+          "kind": "mixed"
+        },
+        {
+          "n": 131,
+          "aired": "1992-03-19",
+          "title": "More Androids?!",
+          "kind": "mixed"
+        },
+        {
+          "n": 132,
+          "aired": "1992-03-25",
+          "title": "Follow Dr. Gero",
+          "kind": "mixed"
+        },
+        {
+          "n": 133,
+          "aired": "1992-04-01",
+          "title": "Nightmare Comes True",
+          "kind": "mixed"
+        },
+        {
+          "n": 134,
+          "aired": "1992-04-08",
+          "title": "Goku's Assassin",
+          "kind": "mixed"
+        },
+        {
+          "n": 135,
+          "aired": "1992-04-15",
+          "title": "Deadly Beauty",
+          "kind": "mixed"
+        },
+        {
+          "n": 136,
+          "aired": "1992-04-22",
+          "title": "No Match for the Androids",
+          "kind": "mixed"
+        },
+        {
+          "n": 137,
+          "aired": "1992-04-29",
+          "title": "Last Ditch Effort",
+          "kind": "mixed"
+        },
+        {
+          "n": 138,
+          "aired": "1992-05-06",
+          "title": "Closing In",
+          "kind": "mixed"
+        },
+        {
+          "n": 139,
+          "aired": "1992-05-13",
+          "title": "Unwelcome Discovery",
+          "kind": "mixed"
+        },
+        {
+          "n": 140,
+          "aired": "1992-05-20",
+          "title": "Seized with Fear",
+          "kind": "mixed"
+        },
+        {
+          "n": 141,
+          "aired": "1992-05-27",
+          "title": "The Reunion",
+          "kind": "canon"
+        },
+        {
+          "n": 142,
+          "aired": "1992-06-03",
+          "title": "Borrowed Powers",
+          "kind": "mixed"
+        },
+        {
+          "n": 143,
+          "aired": "1992-06-10",
+          "title": "His Name is Cell",
+          "kind": "mixed"
+        },
+        {
+          "n": 144,
+          "aired": "1992-06-17",
+          "title": "Piccolo's Folly",
+          "kind": "mixed"
+        },
+        {
+          "n": 145,
+          "aired": "1992-06-24",
+          "title": "Laboratory Basement",
+          "kind": "mixed"
+        },
+        {
+          "n": 146,
+          "aired": "1992-07-01",
+          "title": "Our Hero Awakes",
+          "kind": "mixed"
+        },
+        {
+          "n": 147,
+          "aired": "1992-07-08",
+          "title": "Time Chamber",
+          "kind": "mixed"
+        },
+        {
+          "n": 148,
+          "aired": "1992-07-15",
+          "title": "The Monster is Coming",
+          "kind": "mixed"
+        },
+        {
+          "n": 149,
+          "aired": "1992-07-22",
+          "title": "He's Here",
+          "kind": "mixed"
+        },
+        {
+          "n": 150,
+          "aired": "1992-07-29",
+          "title": "Up to Piccolo",
+          "kind": "canon"
+        },
+        {
+          "n": 151,
+          "aired": "1992-08-05",
+          "title": "Silent Warrior",
+          "kind": "mixed"
+        },
+        {
+          "n": 152,
+          "aired": "1992-08-12",
+          "title": "Say Goodbye, 17",
+          "kind": "mixed"
+        },
+        {
+          "n": 153,
+          "aired": "1992-08-19",
+          "title": "Sacrifice",
+          "kind": "mixed"
+        },
+        {
+          "n": 154,
+          "aired": "1992-08-26",
+          "title": "Saiyans Emerge",
+          "kind": "mixed"
+        },
+        {
+          "n": 155,
+          "aired": "1992-09-02",
+          "title": "Super Vegeta",
+          "kind": "mixed"
+        },
+        {
+          "n": 156,
+          "aired": "1992-09-09",
+          "title": "Bow to The Prince",
+          "kind": "mixed"
+        },
+        {
+          "n": 157,
+          "aired": "1992-09-16",
+          "title": "Hour of Temptation",
+          "kind": "mixed"
+        },
+        {
+          "n": 158,
+          "aired": "1992-09-23",
+          "title": "Krillin's Decision",
+          "kind": "mixed"
+        },
+        {
+          "n": 159,
+          "aired": "1992-09-30",
+          "title": "The Last Defense",
+          "kind": "mixed"
+        },
+        {
+          "n": 160,
+          "aired": "1992-10-14",
+          "title": "Cell is Complete",
+          "kind": "mixed"
+        },
+        {
+          "n": 161,
+          "aired": "1992-10-21",
+          "title": "Vegeta Must Pay",
+          "kind": "mixed"
+        },
+        {
+          "n": 162,
+          "aired": "1992-10-28",
+          "title": "Trunks Ascends",
+          "kind": "mixed"
+        },
+        {
+          "n": 163,
+          "aired": "1992-11-04",
+          "title": "Saving Throw",
+          "kind": "mixed"
+        },
+        {
+          "n": 164,
+          "aired": "1992-11-11",
+          "title": "Ghosts from Tomorrow",
+          "kind": "mixed"
+        },
+        {
+          "n": 165,
+          "aired": "1992-11-18",
+          "title": "The Cell Games",
+          "kind": "canon"
+        },
+        {
+          "n": 166,
+          "aired": "1992-11-25",
+          "title": "What is the Tournament?",
+          "kind": "mixed"
+        },
+        {
+          "n": 167,
+          "aired": "1992-12-02",
+          "title": "The Doomsday Broadcast",
+          "kind": "mixed"
+        },
+        {
+          "n": 168,
+          "aired": "1992-12-09",
+          "title": "Meet Me In the Ring",
+          "kind": "mixed"
+        },
+        {
+          "n": 169,
+          "aired": "1992-12-16",
+          "title": "No Worries Here",
+          "kind": "mixed"
+        },
+        {
+          "n": 170,
+          "aired": "1993-01-13",
+          "title": "A Girl Named Lime",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "A Girl Named Lime",
+              "revision": 2234429
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "A Girl Named Lime",
+              "revision": 2234429
+            }
+          ]
+        },
+        {
+          "n": 171,
+          "aired": "1993-01-20",
+          "title": "Memories of Gohan",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Memories of Gohan",
+              "revision": 2145484
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Memories of Gohan",
+              "revision": 2145484
+            }
+          ]
+        },
+        {
+          "n": 172,
+          "aired": "1993-01-27",
+          "title": "A New Guardian",
+          "kind": "canon"
+        },
+        {
+          "n": 173,
+          "aired": "1993-02-03",
+          "title": "Dende's Dragon",
+          "kind": "mixed"
+        },
+        {
+          "n": 174,
+          "aired": "1993-02-10",
+          "title": "The Puzzle of General Tao",
+          "kind": "mixed"
+        },
+        {
+          "n": 175,
+          "aired": "1993-02-17",
+          "title": "The Games Begin",
+          "kind": "mixed"
+        },
+        {
+          "n": 176,
+          "aired": "1993-03-03",
+          "title": "Losers Fight First",
+          "kind": "mixed"
+        },
+        {
+          "n": 177,
+          "aired": "1993-03-10",
+          "title": "Goku vs. Cell",
+          "kind": "mixed"
+        },
+        {
+          "n": 178,
+          "aired": "1993-03-17",
+          "title": "Cell's Bag of Tricks",
+          "kind": "mixed"
+        },
+        {
+          "n": 179,
+          "aired": "1993-03-31",
+          "title": "No More Rules",
+          "kind": "mixed"
+        },
+        {
+          "n": 180,
+          "aired": "1993-04-07",
+          "title": "The Fight is Over",
+          "kind": "mixed"
+        },
+        {
+          "n": 181,
+          "aired": "1993-04-14",
+          "title": "Faith in a Boy",
+          "kind": "mixed"
+        },
+        {
+          "n": 182,
+          "aired": "1993-04-21",
+          "title": "Gohan's Plea",
+          "kind": "mixed"
+        },
+        {
+          "n": 183,
+          "aired": "1993-04-28",
+          "title": "Android Explosion",
+          "kind": "mixed"
+        },
+        {
+          "n": 184,
+          "aired": "1993-05-05",
+          "title": "Cell Juniors Attack!",
+          "kind": "mixed"
+        },
+        {
+          "n": 185,
+          "aired": "1993-05-12",
+          "title": "Awakening",
+          "kind": "mixed"
+        },
+        {
+          "n": 186,
+          "aired": "1993-05-19",
+          "title": "The Unstoppable Gohan",
+          "kind": "mixed"
+        },
+        {
+          "n": 187,
+          "aired": "1993-05-26",
+          "title": "Cell's Break Down",
+          "kind": "mixed"
+        },
+        {
+          "n": 188,
+          "aired": "1993-06-02",
+          "title": "A Hero's Farewell",
+          "kind": "mixed"
+        },
+        {
+          "n": 189,
+          "aired": "1993-06-16",
+          "title": "Cell Returns!",
+          "kind": "mixed"
+        },
+        {
+          "n": 190,
+          "aired": "1993-06-23",
+          "title": "The Horror Won't End",
+          "kind": "mixed"
+        },
+        {
+          "n": 191,
+          "aired": "1993-06-30",
+          "title": "Save the World",
+          "kind": "mixed"
+        },
+        {
+          "n": 192,
+          "aired": "1993-07-07",
+          "title": "Goku's Decision",
+          "kind": "mixed"
+        },
+        {
+          "n": 193,
+          "aired": "1993-07-14",
+          "title": "One More Wish",
+          "kind": "canon"
+        },
+        {
+          "n": 194,
+          "aired": "1993-07-21",
+          "title": "Free the Future",
+          "kind": "canon"
+        },
+        {
+          "n": 195,
+          "aired": "1993-07-28",
+          "title": "Warriors of the Dead",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Warriors of the Dead",
+              "revision": 2255622
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Warriors of the Dead",
+              "revision": 2255622
+            }
+          ]
+        },
+        {
+          "n": 196,
+          "aired": "1993-08-11",
+          "title": "Tournament Begins",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Tournament Begins",
+              "revision": 2228516
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Tournament Begins",
+              "revision": 2228516
+            }
+          ]
+        },
+        {
+          "n": 197,
+          "aired": "1993-08-18",
+          "title": "Water Fight",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Water Fight",
+              "revision": 2237230
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Water Fight",
+              "revision": 2237230
+            }
+          ]
+        },
+        {
+          "n": 198,
+          "aired": "1993-08-25",
+          "title": "Final Round",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Final Round",
+              "revision": 2236967
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Final Round",
+              "revision": 2236967
+            }
+          ]
+        },
+        {
+          "n": 199,
+          "aired": "1993-09-01",
+          "title": "Goku vs. Pikkon",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Goku vs. Pikkon",
+              "revision": 2254582
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Goku vs. Pikkon",
+              "revision": 2254582
+            }
+          ]
+        },
+        {
+          "n": 200,
+          "aired": "1993-09-08",
+          "title": "Gohan Goes to High School",
+          "kind": "mixed"
+        },
+        {
+          "n": 201,
+          "aired": "1993-09-15",
+          "title": "I am Saiyaman",
+          "kind": "canon"
+        },
+        {
+          "n": 202,
+          "aired": "1993-09-29",
+          "title": "Gohan's First Date",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Gohan's First Date",
+              "revision": 2204709
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Gohan's First Date",
+              "revision": 2204709
+            }
+          ]
+        },
+        {
+          "n": 203,
+          "aired": "1993-10-20",
+          "title": "Rescue Videl",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "Rescue Videl",
+              "revision": 2115504
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "Rescue Videl",
+              "revision": 2115504
+            }
+          ]
+        },
+        {
+          "n": 204,
+          "aired": "1993-10-27",
+          "title": "Blackmail",
+          "kind": "mixed"
+        },
+        {
+          "n": 205,
+          "aired": "1993-11-03",
+          "title": "I'll Fight Too!",
+          "kind": "mixed"
+        },
+        {
+          "n": 206,
+          "aired": "1993-11-10",
+          "title": "The Newest Super Saiyan",
+          "kind": "mixed"
+        },
+        {
+          "n": 207,
+          "aired": "1993-11-17",
+          "title": "Take Flight, Videl",
+          "kind": "mixed"
+        },
+        {
+          "n": 208,
+          "aired": "1993-11-24",
+          "title": "Gather for the Tournament",
+          "kind": "mixed"
+        },
+        {
+          "n": 209,
+          "aired": "1993-12-08",
+          "title": "Camera Shy",
+          "kind": "mixed"
+        },
+        {
+          "n": 210,
+          "aired": "1993-12-15",
+          "title": "The World Tournament",
+          "kind": "mixed"
+        },
+        {
+          "n": 211,
+          "aired": "1993-12-22",
+          "title": "Trunks vs. Goten",
+          "kind": "mixed"
+        },
+        {
+          "n": 212,
+          "aired": "1994-01-12",
+          "title": "Best of the Boys",
+          "kind": "mixed"
+        },
+        {
+          "n": 213,
+          "aired": "1994-01-19",
+          "title": "Big Trouble, Little Trunks",
+          "kind": "mixed"
+        },
+        {
+          "n": 214,
+          "aired": "1994-01-26",
+          "title": "Who Will Fight Who?",
+          "kind": "canon"
+        },
+        {
+          "n": 215,
+          "aired": "1994-02-02",
+          "title": "Forfeit of Piccolo",
+          "kind": "mixed"
+        },
+        {
+          "n": 216,
+          "aired": "1994-02-09",
+          "title": "A Dark and Secret Power",
+          "kind": "mixed"
+        },
+        {
+          "n": 217,
+          "aired": "1994-02-16",
+          "title": "Videl Is Crushed",
+          "kind": "mixed"
+        },
+        {
+          "n": 218,
+          "aired": "1994-02-23",
+          "title": "Identities Revealed",
+          "kind": "mixed"
+        },
+        {
+          "n": 219,
+          "aired": "1994-03-02",
+          "title": "Energy Drain",
+          "kind": "mixed"
+        },
+        {
+          "n": 220,
+          "aired": "1994-03-09",
+          "title": "The Wizard's Curse",
+          "kind": "mixed"
+        },
+        {
+          "n": 221,
+          "aired": "1994-03-16",
+          "title": "King of the Demons",
+          "kind": "mixed"
+        },
+        {
+          "n": 222,
+          "aired": "1994-03-23",
+          "title": "Vegeta Attacks",
+          "kind": "mixed"
+        },
+        {
+          "n": 223,
+          "aired": "1994-04-13",
+          "title": "Next Up, Goku",
+          "kind": "mixed"
+        },
+        {
+          "n": 224,
+          "aired": "1994-04-20",
+          "title": "Battle Supreme",
+          "kind": "mixed"
+        },
+        {
+          "n": 225,
+          "aired": "1994-04-27",
+          "title": "Eighteen Unmasks",
+          "kind": "mixed"
+        },
+        {
+          "n": 226,
+          "aired": "1994-05-04",
+          "title": "Pay to Win",
+          "kind": "mixed"
+        },
+        {
+          "n": 227,
+          "aired": "1994-05-18",
+          "title": "Heart of a Villain",
+          "kind": "mixed"
+        },
+        {
+          "n": 228,
+          "aired": "1994-05-25",
+          "title": "The Dark Prince Returns",
+          "kind": "mixed"
+        },
+        {
+          "n": 229,
+          "aired": "1994-06-15",
+          "title": "Vegeta's Pride",
+          "kind": "mixed"
+        },
+        {
+          "n": 230,
+          "aired": "1994-06-22",
+          "title": "The Long Awaited Fight",
+          "kind": "mixed"
+        },
+        {
+          "n": 231,
+          "aired": "1994-06-29",
+          "title": "Magic Ball of Buu",
+          "kind": "mixed"
+        },
+        {
+          "n": 232,
+          "aired": "1994-07-04",
+          "title": "Buu is Hatched",
+          "kind": "mixed"
+        },
+        {
+          "n": 233,
+          "aired": "1994-07-13",
+          "title": "The Losses Begin",
+          "kind": "mixed"
+        },
+        {
+          "n": 234,
+          "aired": "1994-07-27",
+          "title": "The Terror of Mr. Buu",
+          "kind": "mixed"
+        },
+        {
+          "n": 235,
+          "aired": "1994-08-03",
+          "title": "Meal Time",
+          "kind": "mixed"
+        },
+        {
+          "n": 236,
+          "aired": "1994-08-17",
+          "title": "The Warrior's Decision",
+          "kind": "canon"
+        },
+        {
+          "n": 237,
+          "aired": "1994-08-24",
+          "title": "Final Atonement",
+          "kind": "mixed"
+        },
+        {
+          "n": 238,
+          "aired": "1994-08-31",
+          "title": "Evil Lives On",
+          "kind": "mixed"
+        },
+        {
+          "n": 239,
+          "aired": "1994-09-07",
+          "title": "Find the Dragon Balls",
+          "kind": "mixed"
+        },
+        {
+          "n": 240,
+          "aired": "1994-09-21",
+          "title": "Revival",
+          "kind": "mixed"
+        },
+        {
+          "n": 241,
+          "aired": "1994-09-28",
+          "title": "Global Announcement",
+          "kind": "mixed"
+        },
+        {
+          "n": 242,
+          "aired": "1994-10-12",
+          "title": "Learn to Fuse!",
+          "kind": "mixed"
+        },
+        {
+          "n": 243,
+          "aired": "1994-10-19",
+          "title": "The Z Sword",
+          "kind": "mixed"
+        },
+        {
+          "n": 244,
+          "aired": "1994-11-02",
+          "title": "Race to Capsule Corp.",
+          "kind": "mixed"
+        },
+        {
+          "n": 245,
+          "aired": "1994-11-09",
+          "title": "Super Saiyan 3?!",
+          "kind": "mixed"
+        },
+        {
+          "n": 246,
+          "aired": "1994-11-16",
+          "title": "Buu's Mutiny",
+          "kind": "mixed"
+        },
+        {
+          "n": 247,
+          "aired": "1994-11-23",
+          "title": "The Fusion Dance",
+          "kind": "mixed"
+        },
+        {
+          "n": 248,
+          "aired": "1994-11-30",
+          "title": "Goku's Time Is Up",
+          "kind": "mixed"
+        },
+        {
+          "n": 249,
+          "aired": "1994-12-07",
+          "title": "Return to Other World",
+          "kind": "mixed"
+        },
+        {
+          "n": 250,
+          "aired": "1994-12-14",
+          "title": "Out from the Broken Sword",
+          "kind": "mixed"
+        },
+        {
+          "n": 251,
+          "aired": "1994-12-21",
+          "title": "Gotenks Is Born",
+          "kind": "canon"
+        },
+        {
+          "n": 252,
+          "aired": "1995-01-11",
+          "title": "Unlikely Friendship",
+          "kind": "mixed"
+        },
+        {
+          "n": 253,
+          "aired": "1995-01-25",
+          "title": "I Kill No More",
+          "kind": "mixed"
+        },
+        {
+          "n": 254,
+          "aired": "1995-02-01",
+          "title": "The Evil of Men",
+          "kind": "mixed"
+        },
+        {
+          "n": 255,
+          "aired": "1995-02-08",
+          "title": "Buu Against Buu",
+          "kind": "mixed"
+        },
+        {
+          "n": 256,
+          "aired": "1995-02-15",
+          "title": "Empty Planet",
+          "kind": "mixed"
+        },
+        {
+          "n": 257,
+          "aired": "1995-02-22",
+          "title": "Time Struggle",
+          "kind": "canon"
+        },
+        {
+          "n": 258,
+          "aired": "1995-03-01",
+          "title": "Super Moves of Gotenks",
+          "kind": "mixed"
+        },
+        {
+          "n": 259,
+          "aired": "1995-03-08",
+          "title": "Trapped in Forever",
+          "kind": "mixed"
+        },
+        {
+          "n": 260,
+          "aired": "1995-03-15",
+          "title": "Feeding Frenzy",
+          "kind": "mixed"
+        },
+        {
+          "n": 261,
+          "aired": "1995-03-22",
+          "title": "Gotenks is Awesome!",
+          "kind": "mixed"
+        },
+        {
+          "n": 262,
+          "aired": "1995-04-26",
+          "title": "Unlucky Break",
+          "kind": "canon"
+        },
+        {
+          "n": 263,
+          "aired": "1995-05-03",
+          "title": "A Whole New Gohan",
+          "kind": "mixed"
+        },
+        {
+          "n": 264,
+          "aired": "1995-05-17",
+          "title": "Search For Survivors",
+          "kind": "mixed"
+        },
+        {
+          "n": 265,
+          "aired": "1995-05-24",
+          "title": "Majin-Buu Transforms",
+          "kind": "mixed"
+        },
+        {
+          "n": 266,
+          "aired": "1995-05-31",
+          "title": "The Old Kai's Weapon",
+          "kind": "canon"
+        },
+        {
+          "n": 267,
+          "aired": "1995-06-07",
+          "title": "Ready to Fuse?",
+          "kind": "mixed"
+        },
+        {
+          "n": 268,
+          "aired": "1995-06-28",
+          "title": "Union of Rivals",
+          "kind": "mixed"
+        },
+        {
+          "n": 269,
+          "aired": "1995-07-05",
+          "title": "Meet Vegito",
+          "kind": "mixed"
+        },
+        {
+          "n": 270,
+          "aired": "1995-07-12",
+          "title": "Rip in the Universe",
+          "kind": "mixed"
+        },
+        {
+          "n": 271,
+          "aired": "1995-07-19",
+          "title": "Vegito... Downsized",
+          "kind": "mixed"
+        },
+        {
+          "n": 272,
+          "aired": "1995-07-26",
+          "title": "The Incredible Fighting Candy",
+          "kind": "mixed"
+        },
+        {
+          "n": 273,
+          "aired": "1995-08-02",
+          "title": "The Innards of Buu",
+          "kind": "mixed"
+        },
+        {
+          "n": 274,
+          "aired": "1995-08-09",
+          "title": "Mind Trap",
+          "kind": "mixed"
+        },
+        {
+          "n": 275,
+          "aired": "1995-08-16",
+          "title": "Deadly Vision",
+          "kind": "mixed"
+        },
+        {
+          "n": 276,
+          "aired": "1995-08-23",
+          "title": "Evil Kid Buu!",
+          "kind": "canon"
+        },
+        {
+          "n": 277,
+          "aired": "1995-09-06",
+          "title": "End of Earth",
+          "kind": "mixed"
+        },
+        {
+          "n": 278,
+          "aired": "1995-09-13",
+          "title": "True Saiyans Fight Alone",
+          "kind": "canon"
+        },
+        {
+          "n": 279,
+          "aired": "1995-09-20",
+          "title": "Battle for the Universe Begins",
+          "kind": "mixed"
+        },
+        {
+          "n": 280,
+          "aired": "1995-10-18",
+          "title": "Vegeta's Respect",
+          "kind": "mixed"
+        },
+        {
+          "n": 281,
+          "aired": "1995-11-01",
+          "title": "Minute of Desperation",
+          "kind": "mixed"
+        },
+        {
+          "n": 282,
+          "aired": "1995-11-08",
+          "title": "Old Buu Emerges",
+          "kind": "mixed"
+        },
+        {
+          "n": 283,
+          "aired": "1995-11-15",
+          "title": "Earth Reborn",
+          "kind": "canon"
+        },
+        {
+          "n": 284,
+          "aired": "1995-11-22",
+          "title": "Call to Action",
+          "kind": "mixed"
+        },
+        {
+          "n": 285,
+          "aired": "1995-11-29",
+          "title": "People of Earth Unite",
+          "kind": "mixed"
+        },
+        {
+          "n": 286,
+          "aired": "1995-12-13",
+          "title": "Spirit Bomb Triumphant",
+          "kind": "mixed"
+        },
+        {
+          "n": 287,
+          "aired": "1995-12-20",
+          "title": "Celebrations with Majin Buu",
+          "kind": "mixed"
+        },
+        {
+          "n": 288,
+          "aired": "1996-01-10",
+          "title": "He's Always Late",
+          "kind": "anime-only",
+          "evidence": [
+            {
+              "source": "dragonball",
+              "signal": "no adapted chapter",
+              "page": "He's Always Late",
+              "revision": 2246123
+            },
+            {
+              "source": "dragonball",
+              "signal": "The entire events of this episode were exclusive to the anime",
+              "page": "He's Always Late",
+              "revision": 2246123
+            }
+          ]
+        },
+        {
+          "n": 289,
+          "aired": "1996-01-17",
+          "title": "Granddaughter Pan",
+          "kind": "mixed"
+        },
+        {
+          "n": 290,
+          "aired": "1996-01-24",
+          "title": "Buu's Reincarnation",
+          "kind": "mixed"
+        },
+        {
+          "n": 291,
+          "aired": "1996-01-31",
+          "title": "Goku's Next Journey",
+          "kind": "mixed"
+        }
+      ],
+      "sources": [
+        {
+          "id": "dragonball",
+          "name": "Dragon Ball Wiki",
+          "licence": "CC BY-SA",
+          "licenceUrl": "https://www.fandom.com/licensing",
+          "url": "https://dragonball.fandom.com/",
+          "dumpDate": "Thu, 23 Jul 2026 22:39:07 GMT"
+        }
+      ]
+    }
+  ]
+}

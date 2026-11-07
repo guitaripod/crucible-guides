@@ -1,0 +1,24 @@
+slug = "dragon-ball"
+title = "Dragon Ball"
+titles = ["Dragon Ball", "ドラゴンボール"]
+episodes = 153
+
+[ids]
+tvdb = 76666
+imdb = "tt0088509"
+anidb = 231
+mal = 223
+
+[wiki]
+series = ["DB", "db", "Dragon Ball"]
+dump = "dragonball"
+name = "Dragon Ball Wiki"
+url = "https://dragonball.fandom.com/"
+licence = "CC BY-SA"
+licence_url = "https://www.fandom.com/licensing"
+template = "EpisodeInfobox"
+series_field = "Series"
+number_field = "Number"
+title_field = "Name"
+aired_field = "Airdate"
+chapter_field = "Manga"

@@ -1,0 +1,57 @@
+name: ci
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+  schedule:
+    - cron: "17 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+      - name: Tools
+        run: sudo apt-get update && sudo apt-get install -y libarchive-tools
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cargo/registry
+            target
+            dumps
+          key: guides-${{ hashFiles('Cargo.lock') }}-${{ github.run_id }}
+          restore-keys: guides-${{ hashFiles('Cargo.lock') }}-
+      - name: Test
+        run: cargo test --release
+      - name: Build from the published dumps
+        run: |
+          cp data/guides.json /tmp/previous.json
+          cargo run --release -- build --fetch --cache dumps --generated "$(date -u +%F)" --out data/guides.json
+      - name: Check, against the last published build
+        run: cargo run --release -- check --previous /tmp/previous.json
+      - name: Summary
+        run: cargo run --release -- summary
+      - name: Publish the accepted build
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: |
+          python3 - <<'EOF'
+          import json
+          a = json.load(open("/tmp/previous.json")); b = json.load(open("data/guides.json"))
+          a.pop("generated", None); b.pop("generated", None)
+          open("/tmp/changed", "w").write("yes" if a != b else "no")
+          EOF
+          if [ "$(cat /tmp/changed)" = "yes" ]; then
+            git config user.name "crucible-guides"
+            git config user.email "crucible-guides@users.noreply.github.com"
+            git add data/guides.json
+            git commit -m "Rebuild from the wiki dumps of $(date -u +%F): every check passed"
+            git push
+          else
+            git checkout data/guides.json
+          fi

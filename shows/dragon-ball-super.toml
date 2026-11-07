@@ -1,0 +1,57 @@
+slug = "dragon-ball-super"
+title = "Dragon Ball Super"
+titles = ["Dragon Ball Super", "ドラゴンボール超", "Dragon Ball Chō"]
+episodes = 131
+
+[ids]
+tvdb = 295068
+imdb = "tt4644488"
+anidb = 11210
+mal = 30694
+
+[wiki]
+series = ["Dragon Ball Super", "DBS"]
+dump = "dragonball"
+name = "Dragon Ball Wiki"
+url = "https://dragonball.fandom.com/"
+licence = "CC BY-SA"
+licence_url = "https://www.fandom.com/licensing"
+template = "EpisodeInfobox"
+series_field = "Series"
+number_field = "Number"
+title_field = "Name"
+aired_field = "Airdate"
+chapter_field = "Manga"
+
+[[ranges]]
+from = 1
+to = 27
+retells = ["Dragon Ball Z: Battle of Gods", "Dragon Ball Z: Resurrection 'F'"]
+source = "wikipedia"
+url = "https://en.wikipedia.org/w/index.php?title=List_of_Dragon_Ball_Super_episodes&oldid=1381840984"
+quote = "The series begins with a re-telling of the events of the final two Dragon Ball Z films, Battle of Gods (2013) and Resurrection 'F' (2015)"
+
+[[arcs]]
+name = "Beerus"
+from = 1
+to = 18
+
+[[arcs]]
+name = "Golden Frieza"
+from = 19
+to = 27
+
+[[arcs]]
+name = "Universe 6"
+from = 28
+to = 46
+
+[[arcs]]
+name = "Goku Black"
+from = 47
+to = 76
+
+[[arcs]]
+name = "Universe Survival"
+from = 77
+to = 131
